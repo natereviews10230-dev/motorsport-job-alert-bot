@@ -16,6 +16,7 @@ import json
 import logging
 import os
 import re
+import shutil
 import sqlite3
 import sys
 import time
@@ -49,6 +50,7 @@ SUPPORTED_SOURCE_TYPES = {
     "oracle_hcm",
     "html",
     "link_page",
+    "browser_link_page",
 }
 
 
@@ -973,13 +975,15 @@ def nearest_job_container(anchor: Tag) -> Tag:
     return anchor.parent if isinstance(anchor.parent, Tag) else anchor
 
 
-def fetch_link_page(
+
+def parse_link_page_html(
     source: dict[str, Any],
-    session: requests.Session,
-    timeout: int,
-    user_agent: str,
+    page_url: str,
+    page_html: str,
+    *,
+    source_type: str = "link_page",
 ) -> list[Job]:
-    urls = as_list(source.get("urls") or source.get("url"))
+    """Parse job links from an already-loaded careers-page DOM."""
     include_pattern = re.compile(source["include_url_regex"], re.I)
     exclude_pattern = (
         re.compile(source["exclude_url_regex"], re.I)
@@ -992,8 +996,206 @@ def fetch_link_page(
         if source.get("location_regex")
         else None
     )
+    soup = BeautifulSoup(page_html, "html.parser")
+    jobs: list[Job] = []
+    for anchor in soup.select("a[href]"):
+        href = urljoin(page_url, str(anchor.get("href", "")).strip())
+        if not include_pattern.search(href):
+            continue
+        if exclude_pattern and exclude_pattern.search(href):
+            continue
+        container = nearest_job_container(anchor)
+        container_text = clean_text(container.get_text(" ", strip=True))
+        anchor_text = clean_text(anchor.get_text(" ", strip=True))
+
+        title = ""
+        if source.get("title_selector"):
+            title = select_text(container, source["title_selector"])
+        if not title and title_regex:
+            match = title_regex.search(container_text)
+            if match:
+                title = clean_text(match.groupdict().get("title") or match.group(1))
+        if not title:
+            title = anchor_text
+        if not title or normalize(title) in {
+            "view details",
+            "view job",
+            "apply",
+            "apply now",
+            "learn more",
+            "read more",
+        }:
+            heading = container.select_one("h1,h2,h3,h4,h5,[class*='title']")
+            title = clean_text(heading.get_text(" ", strip=True)) if heading else container_text
+
+        location = ""
+        if source.get("location_selector"):
+            location = select_text(container, source["location_selector"])
+        if not location and location_regex:
+            match = location_regex.search(container_text)
+            if match:
+                location = clean_text(match.groupdict().get("location") or match.group(1))
+
+        jobs.append(
+            Job(
+                source_name=source["name"],
+                source_type=source_type,
+                external_id=stable_id(href),
+                title=title[:500],
+                company=source.get("company", source["name"]),
+                location=location,
+                url=href,
+                description=container_text,
+            )
+        )
+    return dedupe_jobs(jobs)
+
+
+def _find_chromedriver() -> str | None:
+    direct = shutil.which("chromedriver")
+    if direct:
+        return direct
+    env_dir = os.environ.get("CHROMEWEBDRIVER", "").strip()
+    if env_dir:
+        candidate = Path(env_dir) / "chromedriver"
+        if candidate.exists():
+            return str(candidate)
+    return None
+
+
+def fetch_browser_link_page(
+    source: dict[str, Any],
+    session: requests.Session,
+    timeout: int,
+    user_agent: str,
+) -> list[Job]:
+    """Render a JavaScript careers page in headless Chrome and collect job links.
+
+    This is intentionally reserved for official careers sites whose public listings
+    are rendered client-side. GitHub's ubuntu-latest runner includes Chrome and
+    ChromeDriver.
+    """
+    page_url = str(source["url"]).strip()
+    if source.get("respect_robots", True) and not robots_allows(
+        session, page_url, user_agent, timeout
+    ):
+        raise RuntimeError(f"robots.txt does not allow monitoring: {page_url}")
+
+    try:
+        from selenium import webdriver
+        from selenium.webdriver.chrome.options import Options
+        from selenium.webdriver.chrome.service import Service
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.support.ui import WebDriverWait
+    except ImportError as exc:
+        raise RuntimeError("browser_link_page requires the selenium package") from exc
+
+    options = Options()
+    options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1440,2000")
+    options.add_argument(f"--user-agent={user_agent}")
+
+    chromedriver = _find_chromedriver()
+    driver = webdriver.Chrome(
+        service=Service(executable_path=chromedriver) if chromedriver else Service(),
+        options=options,
+    )
+    driver.set_page_load_timeout(max(timeout, 30))
+    wait_seconds = int(source.get("render_wait_seconds", 15))
+    max_pages = int(source.get("max_pages", 10))
     jobs: list[Job] = []
 
+    try:
+        driver.get(page_url)
+        WebDriverWait(driver, wait_seconds).until(
+            lambda d: d.execute_script("return document.readyState") == "complete"
+        )
+
+        include_pattern = re.compile(source["include_url_regex"], re.I)
+
+        def job_link_count() -> int:
+            return sum(
+                1
+                for element in driver.find_elements(By.CSS_SELECTOR, "a[href]")
+                if include_pattern.search(element.get_attribute("href") or "")
+            )
+
+        # Give client-side search a short window to populate the first result set.
+        try:
+            WebDriverWait(driver, wait_seconds).until(lambda d: job_link_count() > 0)
+        except Exception:
+            pass
+
+        previous_signature = ""
+        for _ in range(max_pages):
+            page_jobs = parse_link_page_html(
+                source, driver.current_url or page_url, driver.page_source,
+                source_type="browser_link_page",
+            )
+            jobs.extend(page_jobs)
+            signature = "|".join(sorted(job.url for job in dedupe_jobs(jobs)))
+            if signature == previous_signature and previous_signature:
+                break
+            previous_signature = signature
+
+            # Handle common Symphony Talent pagination controls.
+            candidate = None
+            for phrase in ("See More Jobs", "Load More", "Next jobs", "Next"):
+                elements = driver.find_elements(
+                    By.XPATH,
+                    f"//*[self::a or self::button][contains(normalize-space(.), {json.dumps(phrase)})]",
+                )
+                for element in elements:
+                    try:
+                        if element.is_displayed() and element.is_enabled():
+                            candidate = element
+                            break
+                    except Exception:
+                        continue
+                if candidate is not None:
+                    break
+            if candidate is None:
+                break
+
+            before_count = job_link_count()
+            try:
+                driver.execute_script("arguments[0].scrollIntoView({block:'center'});", candidate)
+                driver.execute_script("arguments[0].click();", candidate)
+                WebDriverWait(driver, wait_seconds).until(
+                    lambda d: job_link_count() != before_count
+                    or d.current_url != page_url
+                )
+            except Exception:
+                break
+    finally:
+        driver.quit()
+
+    return dedupe_jobs(jobs)
+
+
+def merge_source_title_filters(
+    global_filters: dict[str, Any], source: dict[str, Any]
+) -> dict[str, Any]:
+    """Allow a source to add relevant title families without weakening global exclusions."""
+    merged = dict(global_filters)
+    extras = as_list(source.get("extra_title_any"))
+    if extras:
+        merged["title_any"] = list(dict.fromkeys([
+            *as_list(global_filters.get("title_any")), *extras
+        ]))
+    return merged
+
+def fetch_link_page(
+    source: dict[str, Any],
+    session: requests.Session,
+    timeout: int,
+    user_agent: str,
+) -> list[Job]:
+    urls = as_list(source.get("urls") or source.get("url"))
+    jobs: list[Job] = []
     for page_url_value in urls:
         page_url = str(page_url_value).strip()
         if source.get("respect_robots", True) and not robots_allows(
@@ -1002,59 +1204,7 @@ def fetch_link_page(
             raise RuntimeError(f"robots.txt does not allow monitoring: {page_url}")
         response = session.get(page_url, timeout=timeout)
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-        for anchor in soup.select("a[href]"):
-            href = urljoin(page_url, str(anchor.get("href", "")).strip())
-            if not include_pattern.search(href):
-                continue
-            if exclude_pattern and exclude_pattern.search(href):
-                continue
-            container = nearest_job_container(anchor)
-            container_text = clean_text(container.get_text(" ", strip=True))
-            anchor_text = clean_text(anchor.get_text(" ", strip=True))
-
-            title = ""
-            if source.get("title_selector"):
-                title = select_text(container, source["title_selector"])
-            if not title and title_regex:
-                match = title_regex.search(container_text)
-                if match:
-                    title = clean_text(match.groupdict().get("title") or match.group(1))
-            if not title:
-                title = anchor_text
-            if not title or normalize(title) in {
-                "view details",
-                "view job",
-                "apply",
-                "apply now",
-                "learn more",
-                "read more",
-            }:
-                heading = container.select_one("h1,h2,h3,h4,h5,[class*='title']")
-                title = clean_text(heading.get_text(" ", strip=True)) if heading else container_text
-
-            location = ""
-            if source.get("location_selector"):
-                location = select_text(container, source["location_selector"])
-            if not location and location_regex:
-                match = location_regex.search(container_text)
-                if match:
-                    location = clean_text(
-                        match.groupdict().get("location") or match.group(1)
-                    )
-
-            jobs.append(
-                Job(
-                    source_name=source["name"],
-                    source_type="link_page",
-                    external_id=stable_id(href),
-                    title=title[:500],
-                    company=source.get("company", source["name"]),
-                    location=location,
-                    url=href,
-                    description=container_text,
-                )
-            )
+        jobs.extend(parse_link_page_html(source, page_url, response.text))
     return dedupe_jobs(jobs)
 
 
@@ -1087,6 +1237,8 @@ def fetch_source(
         return fetch_html(source, session, timeout, user_agent)
     if source_type == "link_page":
         return fetch_link_page(source, session, timeout, user_agent)
+    if source_type == "browser_link_page":
+        return fetch_browser_link_page(source, session, timeout, user_agent)
     raise ValueError(f"Unsupported source type: {source_type}")
 
 
@@ -1139,6 +1291,136 @@ def notify_ntfy(job: Job, session: requests.Session, timeout: int) -> None:
     response.raise_for_status()
 
 
+
+def truncate_utf8(text: str, max_bytes: int) -> str:
+    encoded = text.encode("utf-8")
+    if len(encoded) <= max_bytes:
+        return text
+    suffix = "\n… list truncated; tap the notification for the full current list."
+    budget = max(0, max_bytes - len(suffix.encode("utf-8")))
+    chunk = encoded[:budget]
+    while chunk:
+        try:
+            return chunk.decode("utf-8") + suffix
+        except UnicodeDecodeError:
+            chunk = chunk[:-1]
+    return suffix.strip()
+
+
+def format_jobs_summary(
+    jobs: list[Job],
+    new_fingerprints: set[str],
+    *,
+    summary_kind: str = "current",
+    max_bytes: int = 3800,
+) -> str:
+    """Build one compact ntfy body for either current jobs or newly found jobs."""
+    unique_jobs = {job.fingerprint: job for job in jobs}
+    ordered = sorted(
+        unique_jobs.values(),
+        key=lambda job: (normalize(job.company), normalize(job.title), normalize(job.location)),
+    )
+    new_count = sum(job.fingerprint in new_fingerprints for job in ordered)
+
+    if summary_kind == "new":
+        noun = "match" if len(ordered) == 1 else "matches"
+        lines = [f"{len(ordered)} new job {noun}"]
+    else:
+        lines = [f"{len(ordered)} current matches • {new_count} new"]
+
+    current_company = None
+    for job in ordered:
+        if job.company != current_company:
+            current_company = job.company
+            lines.append(f"\n{current_company}")
+        marker = "🆕" if job.fingerprint in new_fingerprints else "•"
+        location = f" — {job.location}" if job.location else ""
+        lines.append(f"{marker} {job.title}{location}")
+    if not ordered:
+        lines.append("No current roles match your filters.")
+    return truncate_utf8("\n".join(lines), max_bytes)
+
+
+def format_current_jobs_summary(
+    jobs: list[Job], new_fingerprints: set[str], max_bytes: int = 3800
+) -> str:
+    """Backward-compatible wrapper used by older tests/imports."""
+    return format_jobs_summary(
+        jobs, new_fingerprints, summary_kind="current", max_bytes=max_bytes
+    )
+
+def write_current_matches_report(path: Path, jobs: list[Job]) -> None:
+    """Write a stable full list; unchanged matches produce byte-identical output."""
+    unique_jobs = {job.fingerprint: job for job in jobs}
+    ordered = sorted(
+        unique_jobs.values(),
+        key=lambda job: (normalize(job.company), normalize(job.title), normalize(job.location)),
+    )
+    lines = [
+        "# Current Job Matches",
+        "",
+        f"Total: **{len(ordered)}**",
+        "",
+        "This file updates only when the matching job set changes.",
+        "",
+    ]
+    current_company = None
+    for job in ordered:
+        if job.company != current_company:
+            current_company = job.company
+            lines.extend([f"## {current_company}", ""])
+        location = f" — {job.location}" if job.location else ""
+        lines.append(f"- [{job.title}]({job.url}){location}")
+    if not ordered:
+        lines.append("No current roles match the configured filters.")
+    content = "\n".join(lines) + "\n"
+    if not path.exists() or path.read_text(encoding="utf-8") != content:
+        path.write_text(content, encoding="utf-8")
+
+def notify_ntfy_summary(
+    jobs: list[Job],
+    new_fingerprints: set[str],
+    session: requests.Session,
+    timeout: int,
+    *,
+    summary_kind: str = "current",
+    max_bytes: int = 3800,
+) -> None:
+    server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    token = os.environ.get("NTFY_TOKEN", "").strip()
+    if not topic:
+        raise RuntimeError("NTFY_TOPIC is not set")
+
+    unique_jobs = {job.fingerprint: job for job in jobs}
+    new_count = sum(fp in new_fingerprints for fp in unique_jobs)
+    if summary_kind == "new":
+        title = f"JobBot: {len(unique_jobs)} new job match{'es' if len(unique_jobs) != 1 else ''}"
+    else:
+        title = f"JobBot: {len(unique_jobs)} current matches • {new_count} new"
+    headers = {
+        "Title": title[:250],
+        "Tags": "rotating_light,racing_car,briefcase" if new_count else "racing_car,briefcase",
+        "Priority": "high" if new_count else "default",
+    }
+    repository = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    server_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com").rstrip("/")
+    if repository:
+        headers["Click"] = f"{server_url}/{repository}/blob/main/current_matches.md"
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    body = format_jobs_summary(
+        jobs, new_fingerprints, summary_kind=summary_kind, max_bytes=max_bytes
+    )
+    response = session.post(
+        f"{server}/{topic}",
+        data=body.encode("utf-8"),
+        headers=headers,
+        timeout=timeout,
+    )
+    response.raise_for_status()
+
 def send_notifications(
     job: Job,
     channels: list[str],
@@ -1160,8 +1442,10 @@ def send_notifications(
         except Exception as exc:
             errors.append(f"{channel}: {exc}")
             logging.exception("Notification channel failed: %s", channel)
-    if errors and len(errors) == len(channels):
-        raise RuntimeError("All notification channels failed: " + "; ".join(errors))
+    if errors:
+        non_console_errors = [error for error in errors if not error.casefold().startswith("console:")]
+        if non_console_errors or len(errors) == len(channels):
+            raise RuntimeError("Required notification channel failed: " + "; ".join(errors))
 
 
 def validate_config(config: dict[str, Any]) -> None:
@@ -1180,6 +1464,7 @@ def validate_config(config: dict[str, Any]) -> None:
         "oracle_hcm": ["base_url", "site_number"],
         "html": ["url", "card_selector", "title_selector"],
         "link_page": ["include_url_regex"],
+        "browser_link_page": ["url", "include_url_regex"],
     }
 
     source_names: set[str] = set()
@@ -1206,6 +1491,11 @@ def validate_config(config: dict[str, Any]) -> None:
     channels = config.get("notifications", {}).get("channels", ["console"])
     if not channels:
         raise ValueError("At least one notification channel is required")
+    summary_mode = str(config.get("notifications", {}).get("summary_mode", "individual")).casefold()
+    if summary_mode not in {"individual", "new_only", "every_run"}:
+        raise ValueError(
+            "notifications.summary_mode must be 'individual', 'new_only', or 'every_run'"
+        )
 
 
 def load_config(path: Path) -> dict[str, Any]:
@@ -1221,16 +1511,25 @@ def run_cycle(
     session: requests.Session,
     *,
     preview: bool = False,
+    summary_current: bool = False,
 ) -> tuple[int, int, int]:
     timeout = int(config.get("request_timeout_seconds", 25))
-    filters = config.get("filters", {})
-    channels = config.get("notifications", {}).get("channels", ["console"])
+    global_filters = config.get("filters", {})
+    notifications = config.get("notifications", {})
+    channels = notifications.get("channels", ["console"])
+    summary_mode = str(notifications.get("summary_mode", "individual")).casefold()
+    summary_max_bytes = int(notifications.get("summary_max_bytes", 3800))
     notify_existing = bool(config.get("notify_existing_on_first_run", False))
     user_agent = config.get("user_agent", DEFAULT_USER_AGENT)
 
     found = 0
     alerted = 0
     failures = 0
+    all_matching_jobs: list[Job] = []
+    new_alert_jobs: list[Job] = []
+    baseline_jobs: list[Job] = []
+    sources_to_initialize: list[str] = []
+
     for source in config["sources"]:
         if source.get("enabled", True) is False:
             logging.info("Skipping disabled source: %s", source["name"])
@@ -1239,12 +1538,14 @@ def run_cycle(
         try:
             jobs = fetch_source(source, session, timeout, user_agent)
             source_filters = source.get("filters", {})
+            effective_global_filters = merge_source_title_filters(global_filters, source)
             matching_jobs = [
                 job
                 for job in jobs
                 if matches_filters(job, source_filters)
-                and matches_filters(job, filters)
+                and matches_filters(job, effective_global_filters)
             ]
+            all_matching_jobs.extend(matching_jobs)
             found += len(matching_jobs)
             logging.info(
                 "%s: fetched %d jobs; %d matched",
@@ -1259,17 +1560,104 @@ def run_cycle(
                 continue
 
             initialized = store.source_initialized(source_name)
+            source_notify_existing = bool(
+                source.get("notify_existing_on_first_run", notify_existing)
+            )
             for job in matching_jobs:
-                is_new = not store.has_seen(job.fingerprint)
-                should_alert = is_new and (initialized or notify_existing)
-                if should_alert:
-                    send_notifications(job, channels, session, timeout)
-                    alerted += 1
-                store.record(job)
-            store.mark_source_initialized(source_name)
+                if store.has_seen(job.fingerprint):
+                    continue
+                if initialized or source_notify_existing:
+                    new_alert_jobs.append(job)
+                else:
+                    baseline_jobs.append(job)
+            sources_to_initialize.append(source_name)
         except Exception:
             failures += 1
             logging.exception("Source failed: %s", source_name)
+
+    if preview:
+        return found, 0, failures
+
+    # Keep a clickable full list in the public repository. The ntfy notification
+    # stays compact enough for iOS push delivery.
+    write_current_matches_report(Path("current_matches.md"), all_matching_jobs)
+
+    alert_fingerprints = {job.fingerprint for job in new_alert_jobs}
+    notification_succeeded = True
+    normalized_channels = [str(c).casefold() for c in channels]
+
+    # Console remains useful in GitHub logs even when ntfy is consolidated.
+    if "console" in normalized_channels:
+        for job in new_alert_jobs:
+            notify_console(job)
+
+    # Notification behavior:
+    #   * --summary-current (first deployment/manual run/re-run): one full current list.
+    #   * scheduled new_only mode: one consolidated push only when new jobs exist.
+    #   * every_run is retained only for backward compatibility.
+    if "ntfy" in normalized_channels and (summary_current or summary_mode == "every_run"):
+        try:
+            notify_ntfy_summary(
+                all_matching_jobs,
+                alert_fingerprints,
+                session,
+                timeout,
+                summary_kind="current",
+                max_bytes=summary_max_bytes,
+            )
+            alerted = len(new_alert_jobs)
+        except Exception:
+            notification_succeeded = False
+            logging.exception("Current-jobs ntfy summary failed")
+    elif "ntfy" in normalized_channels and summary_mode == "new_only":
+        if new_alert_jobs:
+            try:
+                notify_ntfy_summary(
+                    new_alert_jobs,
+                    alert_fingerprints,
+                    session,
+                    timeout,
+                    summary_kind="new",
+                    max_bytes=summary_max_bytes,
+                )
+                alerted = len(new_alert_jobs)
+            except Exception:
+                notification_succeeded = False
+                logging.exception("New-jobs ntfy summary failed")
+    else:
+        # Individual mode or a non-ntfy configuration. Avoid duplicating console
+        # output when it was already printed above.
+        delivery_channels = [
+            c for c in channels if str(c).casefold() != "console"
+        ]
+        if not delivery_channels and "console" in normalized_channels:
+            alerted = len(new_alert_jobs)
+        else:
+            for job in new_alert_jobs:
+                try:
+                    send_notifications(job, delivery_channels, session, timeout)
+                    alerted += 1
+                except Exception:
+                    notification_succeeded = False
+                    logging.exception(
+                        "Notification failed; job will remain unseen: %s", job.title
+                    )
+
+    # First-run baseline jobs were never supposed to alert, so they can always be
+    # recorded. Jobs that required a notification are only recorded after the
+    # required notification path succeeds, preventing silent lost alerts.
+    for job in baseline_jobs:
+        store.record(job)
+    for job in new_alert_jobs:
+        if notification_succeeded:
+            store.record(job)
+
+    # Existing jobs that are already seen do not need a write. A newly-added
+    # source may be initialized even if notification failed: its unseen jobs will
+    # still qualify as new on the next run because they were deliberately not recorded.
+    for source_name in sources_to_initialize:
+        store.mark_source_initialized(source_name)
+
     return found, alerted, failures
 
 
@@ -1278,6 +1666,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--config", default="config.json", help="Config JSON path")
     parser.add_argument("--once", action="store_true", help="Run one cycle and exit")
     parser.add_argument("--preview", action="store_true", help="Print current matches; do not save")
+    parser.add_argument(
+        "--summary-current",
+        action="store_true",
+        help="Send one ntfy summary of every current match on this run",
+    )
     parser.add_argument("--validate", action="store_true", help="Validate config and exit")
     return parser.parse_args()
 
@@ -1309,7 +1702,11 @@ def main() -> int:
         while True:
             started = time.monotonic()
             found, alerted, failures = run_cycle(
-                config, store, session, preview=args.preview
+                config,
+                store,
+                session,
+                preview=args.preview,
+                summary_current=args.summary_current,
             )
             logging.info(
                 "Cycle complete: %d current matches; %d new alerts; %d source failures",

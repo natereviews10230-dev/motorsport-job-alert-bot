@@ -3,7 +3,7 @@
   "request_timeout_seconds": 30,
   "notify_existing_on_first_run": false,
   "state_database": "job_alerts.sqlite3",
-  "user_agent": "PersonalMotorsportJobAlertBot/3.0 (public career-page monitoring; GitHub Actions)",
+  "user_agent": "PersonalMotorsportJobAlertBot/4.0 (public career-page monitoring; GitHub Actions)",
   "filters": {
     "title_any": [
       "finance",
@@ -108,7 +108,9 @@
     "channels": [
       "console",
       "ntfy"
-    ]
+    ],
+    "summary_mode": "new_only",
+    "summary_max_bytes": 3800
   },
   "sources": [
     {
@@ -241,6 +243,38 @@
       "primary_page_url": "https://jobs.ferrari.com/search/?createNewAlert=false&q=&optionsFacetsDD_country=&optionsFacetsDD_customfield1=",
       "include_url_regex": "jobs\\.ferrari\\.com/job/",
       "respect_robots": true
+    },
+    {
+      "name": "Stellantis - Auburn Hills",
+      "company": "Stellantis",
+      "type": "browser_link_page",
+      "url": "https://careers.stellantis.com/job-search-results/?primary_country=US&location=Auburn%20Hills%2C%20MI%2048326%2C%20USA&latitude=42.6875323&longitude=-83.2341028&radius=10",
+      "primary_page_url": "https://careers.stellantis.com/job-search-results/",
+      "include_url_regex": "careers\\.stellantis\\.com/job/\\d+/",
+      "location_regex": "(?P<location>Auburn Hills(?:,?\\s*MI)?)",
+      "respect_robots": true,
+      "render_wait_seconds": 18,
+      "max_pages": 10,
+      "extra_title_any": [
+        "merchandising",
+        "merchandise",
+        "licensed products",
+        "brand licensing",
+        "product licensing",
+        "licensing",
+        "license",
+        "brand merchandising",
+        "branded merchandise",
+        "accessory product",
+        "accessories product",
+        "accessory product planner",
+        "accessories product planner"
+      ],
+      "filters": {
+        "location_any": [
+          "Auburn Hills"
+        ]
+      }
     }
   ]
 }
