@@ -1,0 +1,22 @@
+# Current Job Matches
+
+Total: **6**
+
+This file updates only when the matching job set changes.
+
+## Andretti Global
+
+- [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
+## Aston Martin F1 Team
+
+- [Graduate Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/c5f372ba-4976-4403-9335-5aa0cdba1732) — Silverstone
+## Audi Revolut F1 Team / Sauber Group
+
+- [Controller Supply Chain](https://audif1.jobs.personio.de/job/2654568?display=en) — Hinwil Switzerland
+- [Cost Cap Analyst](https://audif1.jobs.personio.de/job/2687441?display=en) — Hinwil Switzerland
+## Ford Racing
+
+- [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
+## Haas F1 Team
+
+- [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
