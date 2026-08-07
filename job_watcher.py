@@ -1397,7 +1397,7 @@ def notify_ntfy_summary(
     if summary_kind == "new":
         title = f"JobBot: {len(unique_jobs)} new job match{'es' if len(unique_jobs) != 1 else ''}"
     else:
-        title = f"JobBot: {len(unique_jobs)} current matches • {new_count} new"
+        title = f"JobBot: {len(unique_jobs)} current matches - {new_count} new"
     headers = {
         "Title": title[:250],
         "Tags": "rotating_light,racing_car,briefcase" if new_count else "racing_car,briefcase",
