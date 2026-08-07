@@ -1,16 +1,10 @@
 name: Motorsport Job Watcher
 
-"on":
+on:
   schedule:
-    # Public repositories: every 5 minutes, offset from the top of the hour.
-    - cron: "2/5 * * * *"
+    # Quiet check every 5 minutes. Scheduled runs notify only when new matches exist.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
-    inputs:
-      send_test_notification:
-        description: "Send an ntfy test notification before checking jobs"
-        required: false
-        default: true
-        type: boolean
 
 permissions:
   contents: write
@@ -26,12 +20,12 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -42,47 +36,28 @@ jobs:
       - name: Validate configuration
         run: python job_watcher.py --config config.json --validate
 
-      - name: Send manual-run test notification
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_notification }}
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
-          NTFY_SERVER: ${{ vars.NTFY_SERVER }}
-        run: |
-          python - <<'PY'
-          import os
-          import requests
-
-          topic = os.environ.get("NTFY_TOPIC", "").strip()
-          if not topic:
-              raise SystemExit("Repository secret NTFY_TOPIC is missing")
-
-          server = os.environ.get("NTFY_SERVER", "").strip() or "https://ntfy.sh"
-          token = os.environ.get("NTFY_TOKEN", "").strip()
-          headers = {
-              "Title": "Motorsport Job Bot is online",
-              "Tags": "white_check_mark,racing_car",
-              "Priority": "high",
-          }
-          if token:
-              headers["Authorization"] = f"Bearer {token}"
-
-          response = requests.post(
-              f"{server.rstrip('/')}/{topic}",
-              data="GitHub Actions is now checking your target employers. Existing jobs are treated as the first-run baseline.",
-              headers=headers,
-              timeout=30,
-          )
-          response.raise_for_status()
-          print("ntfy test delivered successfully")
-          PY
-
       - name: Check career sites once
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
           NTFY_SERVER: ${{ vars.NTFY_SERVER }}
-        run: python job_watcher.py --config config.json --once
+          EVENT_NAME: ${{ github.event_name }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          args=(--config config.json --once)
+
+          # Send the full current-jobs summary on:
+          #   1) first deployment / missing state,
+          #   2) a manual Run workflow, or
+          #   3) a GitHub Re-run (run_attempt > 1).
+          # Ordinary scheduled checks stay silent unless new jobs are found.
+          if [[ ! -f job_alerts.sqlite3 || "$EVENT_NAME" == "workflow_dispatch" || "$RUN_ATTEMPT" -gt 1 ]]; then
+            args+=(--summary-current)
+          fi
+
+          python job_watcher.py "${args[@]}"
 
       - name: Persist seen-job state
         if: ${{ !cancelled() }}
@@ -91,9 +66,6 @@ jobs:
           set -euo pipefail
           mkdir -p .state
 
-          # Public scheduled workflows can be disabled after long repository inactivity.
-          # A small monthly heartbeat commit keeps this repository active without
-          # producing a commit every five minutes.
           heartbeat=".state/heartbeat.txt"
           refresh_heartbeat=false
           if [[ ! -f "$heartbeat" ]]; then
@@ -105,7 +77,7 @@ jobs:
             date -u +"%Y-%m-%dT%H:%M:%SZ" > "$heartbeat"
           fi
 
-          git add -f job_alerts.sqlite3 "$heartbeat"
+          git add -f job_alerts.sqlite3 "$heartbeat" current_matches.md
           if git diff --cached --quiet; then
             echo "No new state to save."
             exit 0
