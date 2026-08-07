@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **6**
+Total: **11**
 
 This file updates only when the matching job set changes.
 
@@ -12,6 +12,7 @@ This file updates only when the matching job set changes.
 - [Graduate Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/c5f372ba-4976-4403-9335-5aa0cdba1732) — Silverstone
 ## Audi Revolut F1 Team / Sauber Group
 
+- [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.de/job/2076692?display=en) — Hinwil Switzerland
 - [Controller Supply Chain](https://audif1.jobs.personio.de/job/2654568?display=en) — Hinwil Switzerland
 - [Cost Cap Analyst](https://audif1.jobs.personio.de/job/2687441?display=en) — Hinwil Switzerland
 ## Ford Racing
@@ -19,4 +20,10 @@ This file updates only when the matching job set changes.
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
 ## Haas F1 Team
 
+- [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
+- [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
+## Stellantis
+
+- [Lead Buyer, Inbound Transportation](https://careers.stellantis.com/job/23681869/lead-buyer-inbound-transportation/) — Auburn Hills, MI
+- [Purchasing Program Manager](https://careers.stellantis.com/job/23680527/purchasing-program-manager/) — Auburn Hills, MI
