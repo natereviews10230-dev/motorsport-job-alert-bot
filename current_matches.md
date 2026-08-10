@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **9**
+Total: **8**
 
 This file updates only when the matching job set changes.
 
@@ -20,6 +20,3 @@ This file updates only when the matching job set changes.
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-## Stellantis
-
-- [Lead Buyer, Inbound Transportation](https://careers.stellantis.com/job/23681869/lead-buyer-inbound-transportation/) — Auburn Hills, MI
