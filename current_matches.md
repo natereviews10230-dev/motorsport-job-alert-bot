@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **10**
+Total: **11**
 
 This file updates only when the matching job set changes.
 
@@ -19,6 +19,9 @@ This file updates only when the matching job set changes.
 - [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.de/job/2076692?display=en) — Hinwil Switzerland
 - [Controller Supply Chain](https://audif1.jobs.personio.de/job/2654568?display=en) — Hinwil Switzerland
 - [Cost Cap Analyst](https://audif1.jobs.personio.de/job/2687441?display=en) — Hinwil Switzerland
+## Ford Racing
+
+- [Ford Racing Parts Chassis Planning Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64278) — Dearborn, MI, United States
 ## Haas F1 Team
 
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
