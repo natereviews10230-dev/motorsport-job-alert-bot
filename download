@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+config.local.json
+*.log
+# Other temporary SQLite files are ignored, but the main cloud state is tracked.
+*.sqlite3
+!job_alerts.sqlite3
