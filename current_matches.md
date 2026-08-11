@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **14**
+Total: **17**
 
 This file updates only when the matching job set changes.
 
@@ -32,3 +32,8 @@ This file updates only when the matching job set changes.
 ## Mercedes-AMG PETRONAS Formula One Team
 
 - [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
+## Stellantis
+
+- [Buyer - Grilles & Special Projects, Stellantis Job #2020763, Auburn Hills, MI](https://careers.stellantis.com/job/23687784/buyer-grilles-special-projects/) — Auburn Hills, MI
+- [Buyer- Seats, Stellantis Job #2019325, Auburn Hills, MI](https://careers.stellantis.com/job/23687778/buyer-seats/) — Auburn Hills, MI
+- [Senior Buyer - Braking/Steering, Stellantis Job #2020088, Auburn Hills, MI](https://careers.stellantis.com/job/23687779/senior-buyer-braking-steering/) — Auburn Hills, MI
