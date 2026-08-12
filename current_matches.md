@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **14**
+Total: **16**
 
 This file updates only when the matching job set changes.
 
@@ -13,6 +13,7 @@ This file updates only when the matching job set changes.
 - [Graduate Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/c5f372ba-4976-4403-9335-5aa0cdba1732) — Silverstone
 ## Atlassian Williams F1 Team
 
+- [Accounts Payable Specialist](https://careers.williamsf1.com/job/accounts-payable-specialist-in-grove-wantage-jid-620)
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495)
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589)
 ## Audi Revolut F1 Team / Sauber Group
@@ -32,3 +33,6 @@ This file updates only when the matching job set changes.
 ## Mercedes-AMG PETRONAS Formula One Team
 
 - [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
+## Stellantis
+
+- [Buyer/Purchasing Analyst - Lighting, Stellantis Job #2020640, Auburn Hills, MI](https://careers.stellantis.com/job/23690552/buyer-purchasing-analyst-lighting/) — Auburn Hills, MI
