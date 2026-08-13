@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **15**
+Total: **16**
 
 This file updates only when the matching job set changes.
 
@@ -33,3 +33,6 @@ This file updates only when the matching job set changes.
 ## Mercedes-AMG PETRONAS Formula One Team
 
 - [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
+## Stellantis
+
+- [Senior Financial Analyst - Government/GDP Fleet, Stellantis Job #2020720, Auburn Hills, MI](https://careers.stellantis.com/job/23715849/senior-financial-analyst-government-gdp-fleet/) — Auburn Hills, MI
