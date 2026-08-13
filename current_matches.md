@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **17**
+Total: **15**
 
 This file updates only when the matching job set changes.
 
@@ -33,7 +33,3 @@ This file updates only when the matching job set changes.
 ## Mercedes-AMG PETRONAS Formula One Team
 
 - [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
-## Stellantis
-
-- [Product Audit Quality Specialist, Stellantis Job #2020791, Auburn Hills, MI](https://careers.stellantis.com/job/23696953/product-audit-quality-specialist/) — Auburn Hills, MI
-- [Social Media and Partnerships Specialist, Stellantis Job #2020806, Auburn Hills, MI](https://careers.stellantis.com/job/23696954/social-media-and-partnerships-specialist/) — Auburn Hills, MI
