@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **16**
+Total: **14**
 
 This file updates only when the matching job set changes.
 
@@ -32,7 +32,3 @@ This file updates only when the matching job set changes.
 ## Mercedes-AMG PETRONAS Formula One Team
 
 - [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
-## Stellantis
-
-- [Finance Student Program - Corporate, Stellantis Job #2020811, Auburn Hills, MI](https://careers.stellantis.com/job/23717106/finance-student-program-corporate/) — Auburn Hills, MI
-- [Purchasing Program Manager – NA Serial Life Powertrain, Stellantis Job #2016896, Auburn Hills, MI](https://careers.stellantis.com/job/23283064/purchasing-program-manager-na-serial-life-powertrain/) — Auburn Hills, MI
