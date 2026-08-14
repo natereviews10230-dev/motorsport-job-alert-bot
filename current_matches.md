@@ -1,6 +1,6 @@
 # Current Job Matches
 
-Total: **17**
+Total: **16**
 
 This file updates only when the matching job set changes.
 
@@ -23,7 +23,6 @@ This file updates only when the matching job set changes.
 - [Cost Cap Analyst](https://audif1.jobs.personio.de/job/2687441?display=en) — Hinwil Switzerland
 ## Ford Racing
 
-- [Ford Racing Parts Chassis Planning Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64278) — Dearborn, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66034) — Dearborn, MI, United States
 ## Haas F1 Team
 
