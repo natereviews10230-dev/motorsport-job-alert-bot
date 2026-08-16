@@ -25,7 +25,7 @@ from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable, Iterator
-from urllib.parse import parse_qs, urlencode, urljoin, urlparse
+from urllib.parse import parse_qs, quote, urlencode, urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
 import requests
@@ -1086,7 +1086,7 @@ def _iter_json_objects(value: Any) -> Iterable[dict[str, Any]]:
 
 def _jobposting_from_html(page_html: str) -> dict[str, Any] | None:
     soup = BeautifulSoup(page_html, "html.parser")
-    for script in soup.find_all("script", attrs={"type": re.compile(r"application/ld\\+json", re.I)}):
+    for script in soup.find_all("script", attrs={"type": re.compile(r"application/ld\+json", re.I)}):
         raw = script.string or script.get_text(" ", strip=True)
         if not raw:
             continue
@@ -1517,6 +1517,47 @@ def notify_discord(job: Job, session: requests.Session, timeout: int) -> None:
     response.raise_for_status()
 
 
+def _ascii_action_label(text: str, max_chars: int = 42) -> str:
+    """Return a compact ASCII-only ntfy action label safe for HTTP headers."""
+    cleaned = text.encode("ascii", "ignore").decode("ascii")
+    cleaned = " ".join(cleaned.replace(",", " ").replace(";", " ").split())
+    return cleaned[:max_chars].strip() or "Job"
+
+
+def _ntfy_action_url(url: str) -> str:
+    """Percent-encode characters that can interfere with ntfy's Actions header syntax."""
+    return quote(url.strip(), safe=":/?&=%#@+~._-")
+
+
+def build_ntfy_view_actions(jobs: list[Job], max_actions: int = 3) -> str:
+    """Build up to three ntfy view actions that open job application pages."""
+    usable: list[Job] = []
+    seen_urls: set[str] = set()
+    for job in jobs:
+        url = job.url.strip()
+        if not url.casefold().startswith(("https://", "http://")):
+            continue
+        key = url.casefold()
+        if key in seen_urls:
+            continue
+        seen_urls.add(key)
+        usable.append(job)
+        if len(usable) >= max(0, min(max_actions, 3)):
+            break
+
+    if not usable:
+        return ""
+
+    if len(usable) == 1:
+        return f"view, Apply Now, {_ntfy_action_url(usable[0].url)}"
+
+    actions: list[str] = []
+    for job in usable:
+        label = _ascii_action_label(f"Apply - {job.title}")
+        actions.append(f"view, {label}, {_ntfy_action_url(job.url)}")
+    return "; ".join(actions)
+
+
 def notify_ntfy(job: Job, session: requests.Session, timeout: int) -> None:
     server = (os.environ.get("NTFY_SERVER", "").strip() or "https://ntfy.sh").rstrip("/")
     topic = os.environ.get("NTFY_TOPIC", "").strip()
@@ -1529,6 +1570,9 @@ def notify_ntfy(job: Job, session: requests.Session, timeout: int) -> None:
         "Click": job.url,
         "Priority": "high",
     }
+    actions = build_ntfy_view_actions([job])
+    if actions:
+        headers["Actions"] = actions
     if token:
         headers["Authorization"] = f"Bearer {token}"
     response = session.post(
@@ -1656,6 +1700,15 @@ def notify_ntfy_summary(
     server_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com").rstrip("/")
     if repository:
         headers["Click"] = f"{server_url}/{repository}/blob/main/current_matches.md"
+
+    ordered_for_actions = sorted(
+        unique_jobs.values(),
+        key=lambda job: (normalize(job.company), normalize(job.title), normalize(job.location)),
+    )
+    actions = build_ntfy_view_actions(ordered_for_actions)
+    if actions:
+        headers["Actions"] = actions
+
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
