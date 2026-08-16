@@ -1642,33 +1642,63 @@ def format_current_jobs_summary(
         jobs, new_fingerprints, summary_kind="current", max_bytes=max_bytes
     )
 
-def write_current_matches_report(path: Path, jobs: list[Job]) -> None:
-    """Write a stable full list; unchanged matches produce byte-identical output."""
+def write_current_matches_report(
+    path: Path,
+    jobs: list[Job],
+    new_fingerprints: set[str] | None = None,
+) -> None:
+    """Write the GitHub dashboard used by the single ntfy View All Jobs button."""
+    new_fingerprints = new_fingerprints or set()
     unique_jobs = {job.fingerprint: job for job in jobs}
     ordered = sorted(
         unique_jobs.values(),
         key=lambda job: (normalize(job.company), normalize(job.title), normalize(job.location)),
     )
+    new_jobs = [job for job in ordered if job.fingerprint in new_fingerprints]
+
     lines = [
-        "# Current Job Matches",
+        "# Motorsport Job Dashboard",
         "",
-        f"Total: **{len(ordered)}**",
+        f"Current matches: **{len(ordered)}**",
         "",
-        "This file updates only when the matching job set changes.",
+        "Tap any role below to open the employer's application page.",
         "",
     ]
+
+    if new_jobs:
+        lines.extend(["## New This Run", ""])
+        for job in new_jobs:
+            location = f" — {job.location}" if job.location else ""
+            lines.append(f"- **{job.company}** — [{job.title}]({job.url}){location}")
+        lines.extend(["", "## All Current Matches", ""])
+    else:
+        lines.extend(["## All Current Matches", ""])
+
     current_company = None
     for job in ordered:
         if job.company != current_company:
             current_company = job.company
-            lines.extend([f"## {current_company}", ""])
+            lines.extend([f"### {current_company}", ""])
         location = f" — {job.location}" if job.location else ""
         lines.append(f"- [{job.title}]({job.url}){location}")
+
     if not ordered:
         lines.append("No current roles match the configured filters.")
+
     content = "\n".join(lines) + "\n"
     if not path.exists() or path.read_text(encoding="utf-8") != content:
         path.write_text(content, encoding="utf-8")
+
+
+def build_ntfy_dashboard_action() -> tuple[str, str]:
+    """Return (dashboard_url, Actions header) for GitHub Actions runs."""
+    repository = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    server_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com").rstrip("/")
+    if not repository:
+        return "", ""
+    dashboard_url = f"{server_url}/{repository}/blob/main/current_matches.md"
+    action = f"view, View All Jobs, {_ntfy_action_url(dashboard_url)}"
+    return dashboard_url, action
 
 def notify_ntfy_summary(
     jobs: list[Job],
@@ -1696,18 +1726,23 @@ def notify_ntfy_summary(
         "Tags": "rotating_light,racing_car,briefcase" if new_count else "racing_car,briefcase",
         "Priority": "high" if new_count else "default",
     }
-    repository = os.environ.get("GITHUB_REPOSITORY", "").strip()
-    server_url = os.environ.get("GITHUB_SERVER_URL", "https://github.com").rstrip("/")
-    if repository:
-        headers["Click"] = f"{server_url}/{repository}/blob/main/current_matches.md"
-
-    ordered_for_actions = sorted(
-        unique_jobs.values(),
-        key=lambda job: (normalize(job.company), normalize(job.title), normalize(job.location)),
-    )
-    actions = build_ntfy_view_actions(ordered_for_actions)
-    if actions:
-        headers["Actions"] = actions
+    dashboard_url, dashboard_action = build_ntfy_dashboard_action()
+    if dashboard_url:
+        # One consistent action works whether one job or twenty jobs appear.
+        # The dashboard itself contains every current role and application URL.
+        headers["Click"] = dashboard_url
+        headers["Actions"] = dashboard_action
+    else:
+        # Local/non-GitHub fallback: keep the notification useful even without
+        # a repository dashboard.
+        ordered_for_actions = sorted(
+            unique_jobs.values(),
+            key=lambda job: (normalize(job.company), normalize(job.title), normalize(job.location)),
+        )
+        actions = build_ntfy_view_actions(ordered_for_actions)
+        if actions:
+            headers["Actions"] = actions
+            headers["Click"] = ordered_for_actions[0].url
 
     if token:
         headers["Authorization"] = f"Bearer {token}"
@@ -1903,11 +1938,15 @@ def run_cycle(
     if preview:
         return found, 0, failures
 
-    # Keep a clickable full list in the public repository. The ntfy notification
-    # stays compact enough for iOS push delivery.
-    write_current_matches_report(Path("current_matches.md"), all_matching_jobs)
-
     alert_fingerprints = {job.fingerprint for job in new_alert_jobs}
+
+    # Keep a clickable dashboard in the public repository. It contains every
+    # current match and highlights jobs first detected in this run. ntfy needs
+    # only one View All Jobs button, so there is no three-action limit.
+    write_current_matches_report(
+        Path("current_matches.md"), all_matching_jobs, alert_fingerprints
+    )
+
     notification_succeeded = True
     normalized_channels = [str(c).casefold() for c in channels]
 

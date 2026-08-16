@@ -17,6 +17,7 @@ from job_watcher import (
     build_ntfy_view_actions,
     notify_ntfy,
     notify_ntfy_summary,
+    write_current_matches_report,
     format_current_jobs_summary,
     format_jobs_summary,
     merge_source_title_filters,
@@ -527,16 +528,39 @@ def test_notify_ntfy_sends_apply_button(monkeypatch):
     assert headers['Click'] == job.url
 
 
-def test_notify_ntfy_summary_sends_apply_buttons(monkeypatch):
+def test_notify_ntfy_summary_uses_one_dashboard_button(monkeypatch):
     monkeypatch.setenv('NTFY_TOPIC', 'test-topic')
     monkeypatch.setenv('NTFY_SERVER', 'https://ntfy.sh')
+    monkeypatch.setenv('GITHUB_REPOSITORY', 'owner/motorsport-job-alert-bot')
+    monkeypatch.setenv('GITHUB_SERVER_URL', 'https://github.com')
     jobs = [
         Job('A', 'test', '1', 'Finance Analyst', 'Team A', 'UK', 'https://example.com/apply/1'),
         Job('B', 'test', '2', 'Accounts Assistant', 'Team B', 'UK', 'https://example.com/apply/2'),
+        Job('C', 'test', '3', 'Controller', 'Team C', 'UK', 'https://example.com/apply/3'),
+        Job('D', 'test', '4', 'Buyer', 'Team D', 'UK', 'https://example.com/apply/4'),
     ]
     session = CaptureSession()
     notify_ntfy_summary(jobs, {j.fingerprint for j in jobs}, session, 10, summary_kind='new')
     headers = session.posts[0][1]['headers']
-    assert headers['Actions'].count('view, ') == 2
-    assert 'https://example.com/apply/1' in headers['Actions']
-    assert 'https://example.com/apply/2' in headers['Actions']
+    dashboard = 'https://github.com/owner/motorsport-job-alert-bot/blob/main/current_matches.md'
+    assert headers['Click'] == dashboard
+    assert headers['Actions'] == f'view, View All Jobs, {dashboard}'
+    assert 'example.com/apply' not in headers['Actions']
+
+
+def test_current_matches_dashboard_lists_every_url_and_highlights_new(tmp_path):
+    jobs = [
+        Job('A', 'test', '1', 'Finance Analyst', 'Team A', 'UK', 'https://example.com/apply/1'),
+        Job('B', 'test', '2', 'Accounts Assistant', 'Team B', 'US', 'https://example.com/apply/2'),
+        Job('C', 'test', '3', 'Buyer', 'Team C', 'Italy', 'https://example.com/apply/3'),
+        Job('D', 'test', '4', 'Controller', 'Team D', 'UK', 'https://example.com/apply/4'),
+    ]
+    path = tmp_path / 'current_matches.md'
+    write_current_matches_report(path, jobs, {jobs[1].fingerprint, jobs[3].fingerprint})
+    text = path.read_text(encoding='utf-8')
+    assert '## New This Run' in text
+    assert '**Team B** — [Accounts Assistant](https://example.com/apply/2)' in text
+    assert '**Team D** — [Controller](https://example.com/apply/4)' in text
+    for job in jobs:
+        assert job.url in text
+        assert job.title in text
