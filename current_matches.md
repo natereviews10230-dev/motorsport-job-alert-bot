@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **15**
+Current matches: **14**
 
 Tap any role below to open the employer's application page.
 
@@ -12,7 +12,6 @@ Tap any role below to open the employer's application page.
 ### Aston Martin F1 Team
 
 - [Accounts Assistant](https://astonmartinf1.pinpointhq.com/en/postings/39619aef-00e5-4fb5-8709-accf548bd51c) — Silverstone
-- [Graduate Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/c5f372ba-4976-4403-9335-5aa0cdba1732) — Silverstone
 ### Atlassian Williams F1 Team
 
 - [Accounts Payable Specialist](https://careers.williamsf1.com/job/accounts-payable-specialist-in-grove-wantage-jid-620) — Grove, Wantage, UK
