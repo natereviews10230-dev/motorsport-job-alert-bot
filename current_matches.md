@@ -1,12 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **14**
+Current matches: **12**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **BWT Alpine Formula One Team** — [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 
 ## All Current Matches
 
@@ -18,7 +14,6 @@ Tap any role below to open the employer's application page.
 - [Accounts Assistant](https://astonmartinf1.pinpointhq.com/en/postings/39619aef-00e5-4fb5-8709-accf548bd51c) — Silverstone
 ### Atlassian Williams F1 Team
 
-- [Accounts Payable Specialist](https://careers.williamsf1.com/job/accounts-payable-specialist-in-grove-wantage-jid-620) — Grove, Wantage, UK
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
 ### Audi Revolut F1 Team / Sauber Group
@@ -37,6 +32,3 @@ Tap any role below to open the employer's application page.
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Stellantis
-
-- [Accounts Payable Team Supervisor, Stellantis Job #2020831, Auburn Hills, MI](https://careers.stellantis.com/job/23719082/accounts-payable-team-supervisor/) — Auburn Hills, MI, US
