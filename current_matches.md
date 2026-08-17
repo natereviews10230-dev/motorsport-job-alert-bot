@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **12**
+Current matches: **13**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **BWT Alpine Formula One Team** — [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 
 ## All Current Matches
 
@@ -24,6 +28,7 @@ Tap any role below to open the employer's application page.
 ### BWT Alpine Formula One Team
 
 - [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
+- [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Ford Racing
 
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66034) — Dearborn, MI, United States
