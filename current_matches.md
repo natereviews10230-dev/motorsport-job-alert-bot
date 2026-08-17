@@ -30,6 +30,6 @@ Tap any role below to open the employer's application page.
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Mercedes-AMG PETRONAS Formula One Team
+### Stellantis
 
-- [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
+- [Accounts Payable Team Supervisor, Stellantis Job #2020831, Auburn Hills, MI](https://careers.stellantis.com/job/23719082/accounts-payable-team-supervisor/) — Auburn Hills, MI, US
