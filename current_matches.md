@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **13**
+Current matches: **14**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **BWT Alpine Formula One Team** — [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 
 ## All Current Matches
 
@@ -22,6 +26,9 @@ Tap any role below to open the employer's application page.
 - [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.de/job/2076692?display=en) — Hinwil Switzerland
 - [Controller Supply Chain](https://audif1.jobs.personio.de/job/2654568?display=en) — Hinwil Switzerland
 - [Cost Cap Analyst](https://audif1.jobs.personio.de/job/2687441?display=en) — Hinwil Switzerland
+### BWT Alpine Formula One Team
+
+- [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 ### Ford Racing
 
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66034) — Dearborn, MI, United States
