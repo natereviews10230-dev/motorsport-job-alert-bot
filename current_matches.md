@@ -4,10 +4,6 @@ Current matches: **13**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **BWT Alpine Formula One Team** — [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
-
 ## All Current Matches
 
 ### Andretti Global
