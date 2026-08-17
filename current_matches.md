@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **14**
+Current matches: **13**
 
 Tap any role below to open the employer's application page.
 
@@ -33,6 +33,3 @@ Tap any role below to open the employer's application page.
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/783)
-### Stellantis
-
-- [Accounts Payable Team Supervisor, Stellantis Job #2020831, Auburn Hills, MI](https://careers.stellantis.com/job/23719082/accounts-payable-team-supervisor/) — Auburn Hills, MI, US
