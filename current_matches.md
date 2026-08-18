@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **13**
+Current matches: **12**
 
 Tap any role below to open the employer's application page.
 
@@ -30,7 +30,6 @@ Tap any role below to open the employer's application page.
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66034) — Dearborn, MI, United States
 ### Haas F1 Team
 
-- [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
 ### Stellantis
 
