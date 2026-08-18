@@ -4,6 +4,10 @@ Current matches: **13**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **Stellantis** — [ICT Product Analyst, Purchasing Systems, Stellantis Job #2020946, Auburn Hills, MI](https://careers.stellantis.com/job/23731503/ict-product-analyst-purchasing-systems/) — Auburn Hills, MI, US
+
 ## All Current Matches
 
 ### Andretti Global
@@ -33,5 +37,5 @@ Tap any role below to open the employer's application page.
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
 ### Stellantis
 
+- [ICT Product Analyst, Purchasing Systems, Stellantis Job #2020946, Auburn Hills, MI](https://careers.stellantis.com/job/23731503/ict-product-analyst-purchasing-systems/) — Auburn Hills, MI, US
 - [Lead Credit Operations Specialist (Treasury), Stellantis Job #2020855, Auburn Hills, MI](https://careers.stellantis.com/job/23729101/lead-credit-operations-specialist-treasury-/) — Auburn Hills, MI, US
-- [Vice President of Financial Planning & Analysis, Stellantis Job #2020501, Auburn Hills, MI](https://careers.stellantis.com/job/23728401/vice-president-of-financial-planning-analysis/) — Auburn Hills, MI, US
