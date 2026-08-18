@@ -30,6 +30,8 @@ Tap any role below to open the employer's application page.
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66034) — Dearborn, MI, United States
 ### Haas F1 Team
 
-- [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
+### Stellantis
+
+- [International Regional Credit Analyst, Stellantis Job #2020960, Auburn Hills, MI](https://careers.stellantis.com/job/23726258/international-regional-credit-analyst/) — Auburn Hills, MI, US
