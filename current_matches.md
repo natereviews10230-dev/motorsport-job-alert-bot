@@ -4,10 +4,6 @@ Current matches: **13**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [ICT Product Analyst, Purchasing Systems, Stellantis Job #2020946, Auburn Hills, MI](https://careers.stellantis.com/job/23731503/ict-product-analyst-purchasing-systems/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
