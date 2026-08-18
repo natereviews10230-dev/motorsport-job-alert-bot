@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **14**
+Current matches: **13**
 
 Tap any role below to open the employer's application page.
 
@@ -33,6 +33,3 @@ Tap any role below to open the employer's application page.
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Stellantis
-
-- [International Regional Credit Analyst, Stellantis Job #2020960, Auburn Hills, MI](https://careers.stellantis.com/job/23726258/international-regional-credit-analyst/) — Auburn Hills, MI, US
