@@ -1,8 +1,16 @@
 # Motorsport Job Dashboard
 
-Current matches: **10**
+Current matches: **15**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Capex Senior Buyer, Stellantis Job #2020964, Auburn Hills, MI](https://careers.stellantis.com/job/23735046/capex-senior-buyer/) — Auburn Hills, MI, US
+- **Stellantis** — [Senior Buyer - Batteries, REEV, Stellantis Job #2020967, Auburn Hills, MI](https://careers.stellantis.com/job/23735049/senior-buyer-batteries-reev/) — Auburn Hills, MI, US
+- **Stellantis** — [Senior Buyer – Finished Vehicles Transportation, Stellantis Job #2020965, Auburn Hills, MI](https://careers.stellantis.com/job/23735047/senior-buyer-finished-vehicles-transportation/) — Auburn Hills, MI, US
+- **Stellantis** — [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2020968, Auburn Hills, MI](https://careers.stellantis.com/job/23735050/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
+- **Stellantis** — [Senior Buyer-Fascia, Liftgates, Stellantis Job #2020966, Auburn Hills, MI](https://careers.stellantis.com/job/23735048/senior-buyer-fascia-liftgates/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -28,3 +36,10 @@ Tap any role below to open the employer's application page.
 ### Haas F1 Team
 
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
+### Stellantis
+
+- [Capex Senior Buyer, Stellantis Job #2020964, Auburn Hills, MI](https://careers.stellantis.com/job/23735046/capex-senior-buyer/) — Auburn Hills, MI, US
+- [Senior Buyer - Batteries, REEV, Stellantis Job #2020967, Auburn Hills, MI](https://careers.stellantis.com/job/23735049/senior-buyer-batteries-reev/) — Auburn Hills, MI, US
+- [Senior Buyer – Finished Vehicles Transportation, Stellantis Job #2020965, Auburn Hills, MI](https://careers.stellantis.com/job/23735047/senior-buyer-finished-vehicles-transportation/) — Auburn Hills, MI, US
+- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2020968, Auburn Hills, MI](https://careers.stellantis.com/job/23735050/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
+- [Senior Buyer-Fascia, Liftgates, Stellantis Job #2020966, Auburn Hills, MI](https://careers.stellantis.com/job/23735048/senior-buyer-fascia-liftgates/) — Auburn Hills, MI, US
