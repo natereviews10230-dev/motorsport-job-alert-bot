@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **15**
+Current matches: **9**
 
 Tap any role below to open the employer's application page.
 
@@ -9,9 +9,6 @@ Tap any role below to open the employer's application page.
 ### Andretti Global
 
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
-### Aston Martin F1 Team
-
-- [Accounts Assistant](https://astonmartinf1.pinpointhq.com/en/postings/39619aef-00e5-4fb5-8709-accf548bd51c) — Silverstone
 ### Atlassian Williams F1 Team
 
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
@@ -28,10 +25,3 @@ Tap any role below to open the employer's application page.
 ### Haas F1 Team
 
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Stellantis
-
-- [Capex Senior Buyer, Stellantis Job #2020964, Auburn Hills, MI](https://careers.stellantis.com/job/23735046/capex-senior-buyer/) — Auburn Hills, MI, US
-- [Senior Buyer - Batteries, REEV, Stellantis Job #2020967, Auburn Hills, MI](https://careers.stellantis.com/job/23735049/senior-buyer-batteries-reev/) — Auburn Hills, MI, US
-- [Senior Buyer – Finished Vehicles Transportation, Stellantis Job #2020965, Auburn Hills, MI](https://careers.stellantis.com/job/23735047/senior-buyer-finished-vehicles-transportation/) — Auburn Hills, MI, US
-- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2020968, Auburn Hills, MI](https://careers.stellantis.com/job/23735050/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
-- [Senior Buyer-Fascia, Liftgates, Stellantis Job #2020966, Auburn Hills, MI](https://careers.stellantis.com/job/23735048/senior-buyer-fascia-liftgates/) — Auburn Hills, MI, US
