@@ -1,13 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **12**
+Current matches: **10**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Stellantis** — [Aftermarket Senior Buyer, Stellantis Job #2020278, Auburn Hills, MI](https://careers.stellantis.com/job/23617760/aftermarket-senior-buyer/) — Auburn Hills, MI, US
-- **Stellantis** — [Senior Buyer - Transmission Components, Stellantis Job #2018315, Auburn Hills, MI](https://careers.stellantis.com/job/23429495/senior-buyer-transmission-components/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -33,7 +28,3 @@ Tap any role below to open the employer's application page.
 ### Haas F1 Team
 
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Stellantis
-
-- [Aftermarket Senior Buyer, Stellantis Job #2020278, Auburn Hills, MI](https://careers.stellantis.com/job/23617760/aftermarket-senior-buyer/) — Auburn Hills, MI, US
-- [Senior Buyer - Transmission Components, Stellantis Job #2018315, Auburn Hills, MI](https://careers.stellantis.com/job/23429495/senior-buyer-transmission-components/) — Auburn Hills, MI, US
