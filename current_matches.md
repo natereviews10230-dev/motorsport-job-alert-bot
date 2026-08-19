@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **11**
+Current matches: **10**
 
 Tap any role below to open the employer's application page.
 
@@ -25,9 +25,6 @@ Tap any role below to open the employer's application page.
 
 - [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
-### Ford Racing
-
-- [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66034) — Dearborn, MI, United States
 ### Haas F1 Team
 
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
