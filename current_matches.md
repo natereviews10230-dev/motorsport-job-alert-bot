@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **13**
+Current matches: **11**
 
 Tap any role below to open the employer's application page.
 
@@ -31,7 +31,3 @@ Tap any role below to open the employer's application page.
 ### Haas F1 Team
 
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Stellantis
-
-- [ICT Product Analyst, Purchasing Systems, Stellantis Job #2020946, Auburn Hills, MI](https://careers.stellantis.com/job/23731503/ict-product-analyst-purchasing-systems/) — Auburn Hills, MI, US
-- [Lead Credit Operations Specialist (Treasury), Stellantis Job #2020855, Auburn Hills, MI](https://careers.stellantis.com/job/23729101/lead-credit-operations-specialist-treasury-/) — Auburn Hills, MI, US
