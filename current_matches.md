@@ -4,10 +4,6 @@ Current matches: **12**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Aftermarket Senior Buyer – Custom Shop - Accessories Division, Stellantis Job #2020029, Auburn Hills, MI](https://careers.stellantis.com/job/23605271/aftermarket-senior-buyer-custom-shop-accessories-division/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
