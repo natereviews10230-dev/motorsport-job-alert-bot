@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **13**
+Current matches: **12**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Aftermarket Senior Buyer – Custom Shop - Accessories Division, Stellantis Job #2020029, Auburn Hills, MI](https://careers.stellantis.com/job/23605271/aftermarket-senior-buyer-custom-shop-accessories-division/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -29,5 +33,4 @@ Tap any role below to open the employer's application page.
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
 ### Stellantis
 
-- [Senior Buyer - Batteries, REEV, Stellantis Job #2020967, Auburn Hills, MI](https://careers.stellantis.com/job/23735049/senior-buyer-batteries-reev/) — Auburn Hills, MI, US
-- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2020968, Auburn Hills, MI](https://careers.stellantis.com/job/23735050/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
+- [Aftermarket Senior Buyer – Custom Shop - Accessories Division, Stellantis Job #2020029, Auburn Hills, MI](https://careers.stellantis.com/job/23605271/aftermarket-senior-buyer-custom-shop-accessories-division/) — Auburn Hills, MI, US
