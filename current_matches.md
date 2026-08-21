@@ -11,6 +11,7 @@ Tap any role below to open the employer's application page.
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
 ### Atlassian Williams F1 Team
 
+- [Accounts Payable Specialist](https://careers.williamsf1.com/job/accounts-payable-specialist-in-grove-wantage-jid-620) — Grove, Wantage, UK
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
 ### Audi Revolut F1 Team / Sauber Group
@@ -30,4 +31,3 @@ Tap any role below to open the employer's application page.
 ### Stellantis
 
 - [Product Planning Strategist - Powertrain, Stellantis Job #2021017, Auburn Hills, MI](https://careers.stellantis.com/job/23742296/product-planning-strategist-powertrain/) — Auburn Hills, MI, US
-- [Purchasing Program Manager/ RFQ Creation Specialist, Stellantis Job #2020705, Auburn Hills, MI](https://careers.stellantis.com/job/23742289/purchasing-program-manager-rfq-creation-specialist/) — Auburn Hills, MI, US
