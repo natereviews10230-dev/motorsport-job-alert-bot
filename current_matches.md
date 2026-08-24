@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ferrari** — [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
-
 ## All Current Matches
 
 ### Andretti Global
