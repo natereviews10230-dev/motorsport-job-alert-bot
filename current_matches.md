@@ -1,21 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Audi Revolut F1 Team** — [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.com/job/2076692?display=en) — Hinwil Switzerland
-- **Audi Revolut F1 Team** — [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
-- **Audi Revolut F1 Team** — [Cost Cap Analyst](https://audif1.jobs.personio.com/job/2687441?display=en) — Hinwil Switzerland
-- **Cadillac Formula 1 Team** — [Executive Assistant (12-Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/e6a5ff67d7-executive-assistant-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
-- **Cadillac Formula 1 Team** — [Finance Analyst (Operations & Racing)](https://opportunities.cadillacf1team.com/en/jobs/c7232e6368-finance-analyst-operations-racing) — Silverstone, West Northamptonshire, United Kingdom
-- **Cadillac Formula 1 Team** — [Junior Buyer](https://opportunities.cadillacf1team.com/en/jobs/8c1573035e-junior-buyer) — Silverstone, West Northamptonshire, United Kingdom
-- **Cadillac Formula 1 Team** — [Technical Buyer](https://opportunities.cadillacf1team.com/en/jobs/715359583a-technical-buyer) — Silverstone, West Northamptonshire, United Kingdom
-- **Red Bull Racing & Red Bull Technology** — [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
-- **Red Bull Racing & Red Bull Technology** — [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
-- **Visa Cash App Racing Bulls F1 Team** — [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
 
 ## All Current Matches
 
@@ -51,9 +38,6 @@ Tap any role below to open the employer's application page.
 
 - [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
-### Stellantis
-
-- [ICT Business Systems Analyst Demand Planning / Forecasting, Stellantis Job #2021127, Auburn Hills, MI](https://careers.stellantis.com/job/23746383/ict-business-systems-analyst-demand-planning-forecasting/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
