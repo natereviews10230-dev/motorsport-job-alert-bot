@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Atlassian Williams F1 Team** — [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-jid-560) — Grove, UK
-
 ## All Current Matches
 
 ### Andretti Global
