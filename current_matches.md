@@ -4,6 +4,10 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **Atlassian Williams F1 Team** — [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-jid-560) — Grove, UK
+
 ## All Current Matches
 
 ### Andretti Global
@@ -13,6 +17,7 @@ Tap any role below to open the employer's application page.
 
 - [Accounts Payable Specialist](https://careers.williamsf1.com/job/accounts-payable-specialist-in-grove-wantage-jid-620) — Grove, Wantage, UK
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
+- [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-jid-560) — Grove, UK
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
 ### Audi Revolut F1 Team
 
@@ -27,7 +32,6 @@ Tap any role below to open the employer's application page.
 
 - [Executive Assistant (12-Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/e6a5ff67d7-executive-assistant-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
 - [Finance Analyst (Operations & Racing)](https://opportunities.cadillacf1team.com/en/jobs/c7232e6368-finance-analyst-operations-racing) — Silverstone, West Northamptonshire, United Kingdom
-- [Junior Buyer](https://opportunities.cadillacf1team.com/en/jobs/8c1573035e-junior-buyer) — Silverstone, West Northamptonshire, United Kingdom
 - [Technical Buyer](https://opportunities.cadillacf1team.com/en/jobs/715359583a-technical-buyer) — Silverstone, West Northamptonshire, United Kingdom
 ### Haas F1 Team
 
