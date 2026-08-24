@@ -4,6 +4,10 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **Ferrari** — [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
+
 ## All Current Matches
 
 ### Andretti Global
@@ -29,6 +33,9 @@ Tap any role below to open the employer's application page.
 - [Executive Assistant (12-Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/e6a5ff67d7-executive-assistant-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
 - [Finance Analyst (Operations & Racing)](https://opportunities.cadillacf1team.com/en/jobs/c7232e6368-finance-analyst-operations-racing) — Silverstone, West Northamptonshire, United Kingdom
 - [Technical Buyer](https://opportunities.cadillacf1team.com/en/jobs/715359583a-technical-buyer) — Silverstone, West Northamptonshire, United Kingdom
+### Ferrari
+
+- [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
 ### Haas F1 Team
 
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
@@ -38,9 +45,6 @@ Tap any role below to open the employer's application page.
 
 - [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
-### Stellantis
-
-- [ICT Business Systems Analyst Demand Planning / Forecasting, Stellantis Job #2021127, Auburn Hills, MI](https://careers.stellantis.com/job/23746383/ict-business-systems-analyst-demand-planning-forecasting/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
