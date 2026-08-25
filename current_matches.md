@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
@@ -37,7 +37,6 @@ Tap any role below to open the employer's application page.
 ### Haas F1 Team
 
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
-- [Merchandise & Licensing Manager](https://haasf1team.bamboohr.com/careers/868) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
 ### Red Bull Racing & Red Bull Technology
 
