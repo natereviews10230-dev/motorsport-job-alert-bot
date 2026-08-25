@@ -4,14 +4,6 @@ Current matches: **26**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Buyer - Welded Assembly/Offload, Stellantis Job #2021181, Auburn Hills, MI](https://careers.stellantis.com/job/23758788/buyer-welded-assembly-offload/) — Auburn Hills, MI, US
-- **Stellantis** — [Financial Analyst (Mopar Finance), Stellantis Job #2021174, Auburn Hills, MI](https://careers.stellantis.com/job/23758785/financial-analyst-mopar-finance-/) — Auburn Hills, MI, US
-- **Stellantis** — [Senior Buyer - Driveline, Stellantis Job #2021179, Auburn Hills, MI](https://careers.stellantis.com/job/23758787/senior-buyer-driveline/) — Auburn Hills, MI, US
-- **Stellantis** — [Senior Buyer - Headlamps, Stellantis Job #2021182, Auburn Hills, MI](https://careers.stellantis.com/job/23758789/senior-buyer-headlamps/) — Auburn Hills, MI, US
-- **Stellantis** — [Senior Buyer - Powertrain Components, Stellantis Job #2021178, Auburn Hills, MI](https://careers.stellantis.com/job/23758786/senior-buyer-powertrain-components/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
