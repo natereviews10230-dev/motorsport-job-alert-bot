@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Finance Controller - Supplier Delivery Risk Management, Stellantis Job #2019329, Auburn Hills, MI](https://careers.stellantis.com/job/23533689/finance-controller-supplier-delivery-risk-management/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -46,6 +50,7 @@ Tap any role below to open the employer's application page.
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
 ### Stellantis
 
+- [Finance Controller - Supplier Delivery Risk Management, Stellantis Job #2019329, Auburn Hills, MI](https://careers.stellantis.com/job/23533689/finance-controller-supplier-delivery-risk-management/) — Auburn Hills, MI, US
 - [Financial Communications & Media Relations Manager, Stellantis Job #2021160, Auburn Hills, MI](https://careers.stellantis.com/job/23756314/financial-communications-media-relations-manager/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
