@@ -19,7 +19,6 @@ Tap any role below to open the employer's application page.
 
 - [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.com/job/2076692?display=en) — Hinwil Switzerland
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
-- [Cost Cap Analyst](https://audif1.jobs.personio.com/job/2687441?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
 - [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
@@ -44,6 +43,9 @@ Tap any role below to open the employer's application page.
 
 - [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
+### Stellantis
+
+- [Purchasing Student Program, Stellantis Job #2021037, Auburn Hills, MI](https://careers.stellantis.com/job/23733065/purchasing-student-program/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
