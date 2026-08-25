@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Cadillac Formula 1 Team** — [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 
 ## All Current Matches
 
@@ -27,6 +31,7 @@ Tap any role below to open the employer's application page.
 
 - [Executive Assistant (12-Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/e6a5ff67d7-executive-assistant-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
 - [Finance Analyst (Operations & Racing)](https://opportunities.cadillacf1team.com/en/jobs/c7232e6368-finance-analyst-operations-racing) — Silverstone, West Northamptonshire, United Kingdom
+- [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 - [Technical Buyer](https://opportunities.cadillacf1team.com/en/jobs/715359583a-technical-buyer) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
