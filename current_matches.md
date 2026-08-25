@@ -1,12 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Ford Racing** — [Internal Controls Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69212) — Dearborn, MI, United States
+- **Stellantis** — [Financial Communications & Media Relations Manager, Stellantis Job #2021160, Auburn Hills, MI](https://careers.stellantis.com/job/23756314/financial-communications-media-relations-manager/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -48,6 +48,9 @@ Tap any role below to open the employer's application page.
 
 - [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
+### Stellantis
+
+- [Financial Communications & Media Relations Manager, Stellantis Job #2021160, Auburn Hills, MI](https://careers.stellantis.com/job/23756314/financial-communications-media-relations-manager/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
