@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ford Racing** — [Internal Controls Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69212) — Dearborn, MI, United States
 
 ## All Current Matches
 
@@ -35,6 +39,7 @@ Tap any role below to open the employer's application page.
 ### Ford Racing
 
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
+- [Internal Controls Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69212) — Dearborn, MI, United States
 ### Haas F1 Team
 
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
