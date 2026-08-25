@@ -4,10 +4,6 @@ Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Financial Communications & Media Relations Manager, Stellantis Job #2021160, Auburn Hills, MI](https://careers.stellantis.com/job/23756314/financial-communications-media-relations-manager/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
