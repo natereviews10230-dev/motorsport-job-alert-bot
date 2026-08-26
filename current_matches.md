@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **26**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
@@ -44,13 +44,6 @@ Tap any role below to open the employer's application page.
 
 - [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
-### Stellantis
-
-- [Buyer - Welded Assembly/Offload, Stellantis Job #2021181, Auburn Hills, MI](https://careers.stellantis.com/job/23758788/buyer-welded-assembly-offload/) — Auburn Hills, MI, US
-- [Financial Analyst (Mopar Finance), Stellantis Job #2021174, Auburn Hills, MI](https://careers.stellantis.com/job/23758785/financial-analyst-mopar-finance-/) — Auburn Hills, MI, US
-- [Senior Buyer - Driveline, Stellantis Job #2021179, Auburn Hills, MI](https://careers.stellantis.com/job/23758787/senior-buyer-driveline/) — Auburn Hills, MI, US
-- [Senior Buyer - Headlamps, Stellantis Job #2021182, Auburn Hills, MI](https://careers.stellantis.com/job/23758789/senior-buyer-headlamps/) — Auburn Hills, MI, US
-- [Senior Buyer - Powertrain Components, Stellantis Job #2021178, Auburn Hills, MI](https://careers.stellantis.com/job/23758786/senior-buyer-powertrain-components/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
