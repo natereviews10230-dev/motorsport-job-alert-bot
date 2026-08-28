@@ -4,10 +4,6 @@ Current matches: **18**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Cadillac Formula 1 Team** — [BI Analyst (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-analyst-finance) — Silverstone, West Northamptonshire, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
