@@ -4,10 +4,6 @@ Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Accounting Analyst, Stellantis Job #2021341, Auburn Hills, MI](https://careers.stellantis.com/job/23773827/accounting-analyst/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
