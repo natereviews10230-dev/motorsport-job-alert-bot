@@ -1,13 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **18**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Cadillac Formula 1 Team** — [BI Developer (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-developer-finance) — Silverstone, West Northamptonshire, United Kingdom
-- **Stellantis** — [Dealer Performance Metrics Manager, Stellantis Job #2019418, Auburn Hills, MI](https://careers.stellantis.com/job/23574662/dealer-performance-metrics-manager/) — Auburn Hills, MI, US
+- **Cadillac Formula 1 Team** — [BI Analyst (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-analyst-finance) — Silverstone, West Northamptonshire, United Kingdom
 
 ## All Current Matches
 
@@ -16,7 +15,6 @@ Tap any role below to open the employer's application page.
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
 ### Atlassian Williams F1 Team
 
-- [Accounts Payable Specialist](https://careers.williamsf1.com/job/accounts-payable-specialist-in-grove-wantage-jid-620) — Grove, Wantage, UK
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
 - [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-jid-560) — Grove, UK
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
@@ -30,11 +28,8 @@ Tap any role below to open the employer's application page.
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
-- [BI Developer (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-developer-finance) — Silverstone, West Northamptonshire, United Kingdom
-- [Executive Assistant (12-Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/e6a5ff67d7-executive-assistant-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
-- [Finance Analyst (Operations & Racing)](https://opportunities.cadillacf1team.com/en/jobs/c7232e6368-finance-analyst-operations-racing) — Silverstone, West Northamptonshire, United Kingdom
+- [BI Analyst (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-analyst-finance) — Silverstone, West Northamptonshire, United Kingdom
 - [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
-- [Technical Buyer](https://opportunities.cadillacf1team.com/en/jobs/715359583a-technical-buyer) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
 - [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
@@ -50,9 +45,6 @@ Tap any role below to open the employer's application page.
 
 - [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
 - [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
-### Stellantis
-
-- [Dealer Performance Metrics Manager, Stellantis Job #2019418, Auburn Hills, MI](https://careers.stellantis.com/job/23574662/dealer-performance-metrics-manager/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
