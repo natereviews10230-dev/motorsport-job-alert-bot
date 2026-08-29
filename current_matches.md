@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **17**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
@@ -18,6 +18,10 @@ Tap any role below to open the employer's application page.
 
 - [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.com/job/2076692?display=en) — Hinwil Switzerland
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
+### BWT Alpine Formula One Team
+
+- [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
+- [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
 - [BI Analyst (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-analyst-finance) — Silverstone, West Northamptonshire, United Kingdom
