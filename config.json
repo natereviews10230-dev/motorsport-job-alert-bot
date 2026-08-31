@@ -201,10 +201,13 @@
       "max_rejected_logs": 20
     },
     {
-      "name": "McLaren Racing",
-      "company": "McLaren Racing",
-      "type": "recruitee",
-      "account": "mclaren"
+    "name": "McLaren Racing",
+    "company": "McLaren Racing",
+    "type": "smartrecruiters",
+    "company_identifier": "McLarenRacingLtd1",
+    "page_size": 100,
+    "max_pages": 10,
+    "fetch_details": false
     },
     {
       "name": "Aston Martin F1 Team",
