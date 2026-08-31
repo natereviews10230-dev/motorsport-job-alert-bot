@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
@@ -16,7 +16,6 @@ Tap any role below to open the employer's application page.
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
 ### Audi Revolut F1 Team
 
-- [Buyer and Production Planner – Wind Tunnel](https://audif1.jobs.personio.com/job/2076692?display=en) — Hinwil Switzerland
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
