@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ferrari** — [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
-
 ## All Current Matches
 
 ### Andretti Global
