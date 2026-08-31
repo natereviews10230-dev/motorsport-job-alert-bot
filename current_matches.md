@@ -4,14 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Operative, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145919499) — Woking, England, United Kingdom
-- **McLaren Racing** — [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
-- **McLaren Racing** — [Specialist, Finance Business Partner - ERP Project](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145491089) — Woking, England, United Kingdom
-- **McLaren Racing** — [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
-- **Visa Cash App Racing Bulls F1 Team** — [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
-
 ## All Current Matches
 
 ### Andretti Global
