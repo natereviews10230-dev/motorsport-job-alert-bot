@@ -1,8 +1,16 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **McLaren Racing** — [Operative, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145919499) — Woking, England, United Kingdom
+- **McLaren Racing** — [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
+- **McLaren Racing** — [Specialist, Finance Business Partner - ERP Project](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145491089) — Woking, England, United Kingdom
+- **McLaren Racing** — [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
+- **Visa Cash App Racing Bulls F1 Team** — [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
 
 ## All Current Matches
 
@@ -25,7 +33,6 @@ Tap any role below to open the employer's application page.
 ### Cadillac Formula 1 Team
 
 - [BI Analyst (Finance)](https://opportunities.cadillacf1team.com/en/jobs/65229dccb4-bi-analyst-finance) — Silverstone, West Northamptonshire, United Kingdom
-- [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
 - [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
@@ -37,13 +44,15 @@ Tap any role below to open the employer's application page.
 
 - [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
-### Red Bull Racing & Red Bull Technology
+### McLaren Racing
 
-- [CNC Machinist (4x4 Days)](https://careers.redbullracing.com/en/sites/CX_2/job/10070)
-- [CNC Machinist (Night Shift)](https://careers.redbullracing.com/en/sites/CX_2/job/10022)
+- [Operative, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145919499) — Woking, England, United Kingdom
+- [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
+- [Specialist, Finance Business Partner - ERP Project](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145491089) — Woking, England, United Kingdom
+- [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 ### Stellantis
 
 - [Accounting Analyst, Stellantis Job #2021341, Auburn Hills, MI](https://careers.stellantis.com/job/23773827/accounting-analyst/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
-- [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748-vcarb-f1-team-buyer-composite) — Faenza, Emilia-Romagna, it
+- [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
