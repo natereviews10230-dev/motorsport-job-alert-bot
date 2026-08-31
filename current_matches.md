@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ferrari** — [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
 
 ## All Current Matches
 
@@ -27,6 +31,7 @@ Tap any role below to open the employer's application page.
 ### Ferrari
 
 - [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
+- [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
 ### Ford Racing
 
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
