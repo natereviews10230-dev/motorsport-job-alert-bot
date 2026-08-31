@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Supply Chain Finance Supervisor, Stellantis Job #2017003, Auburn Hills, MI](https://careers.stellantis.com/job/23290887/supply-chain-finance-supervisor/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -42,6 +46,9 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Finance Business Partner - ERP Project](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145491089) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
+### Stellantis
+
+- [Supply Chain Finance Supervisor, Stellantis Job #2017003, Auburn Hills, MI](https://careers.stellantis.com/job/23290887/supply-chain-finance-supervisor/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
