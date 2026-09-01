@@ -1,14 +1,21 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Aston Martin F1 Team** — [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/2a59881b-fba5-46b6-b3bf-88f62b24a971) — Silverstone
 
 ## All Current Matches
 
 ### Andretti Global
 
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
+### Aston Martin F1 Team
+
+- [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/2a59881b-fba5-46b6-b3bf-88f62b24a971) — Silverstone
 ### Atlassian Williams F1 Team
 
 - [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
