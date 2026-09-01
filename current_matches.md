@@ -4,11 +4,6 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Senior Manager, Financial Control (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000146753979) — Woking, England, United Kingdom
-- **McLaren Racing** — [Senior Specialist, Finance Business Partner - Business Performance](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000146754749) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
