@@ -4,11 +4,6 @@ Current matches: **24**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [2027 Accounting Winter Internship, Stellantis Job #2021420, Auburn Hills, MI](https://careers.stellantis.com/job/23788134/2027-accounting-winter-internship/) — Auburn Hills, MI, US
-- **Stellantis** — [2027 Finance Intern, Stellantis Job #2021430, Auburn Hills, MI](https://careers.stellantis.com/job/23788138/2027-finance-intern/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
