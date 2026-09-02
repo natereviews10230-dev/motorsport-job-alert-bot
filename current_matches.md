@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
@@ -14,8 +14,6 @@ Tap any role below to open the employer's application page.
 - [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/2a59881b-fba5-46b6-b3bf-88f62b24a971) — Silverstone
 ### Atlassian Williams F1 Team
 
-- [Indirect Procurement Business Partner](https://careers.williamsf1.com/job/indirect-procurement-business-partner-in-grove-wantage-jid-495) — Grove, Wantage, UK
-- [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-jid-560) — Grove, UK
 - [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
 ### Audi Revolut F1 Team
 
