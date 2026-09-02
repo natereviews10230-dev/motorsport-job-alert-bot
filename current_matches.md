@@ -4,10 +4,6 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Specialist, Procurement - Production, Technical and Racing](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000147026214) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
