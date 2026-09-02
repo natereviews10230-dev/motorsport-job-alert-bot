@@ -4,10 +4,6 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Atlassian Williams F1 Team** — [Direct Procurement - Industrial Placement](https://careers.williamsf1.com/job/direct-procurement-industrial-placement-in-grove-wantage-jid-695) — Grove, Wantage, UK
-
 ## All Current Matches
 
 ### Andretti Global
