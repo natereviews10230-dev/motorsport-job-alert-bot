@@ -4,6 +4,10 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **Atlassian Williams F1 Team** — [Direct Procurement - Industrial Placement](https://careers.williamsf1.com/job/direct-procurement-industrial-placement-in-grove-wantage-jid-695) — Grove, Wantage, UK
+
 ## All Current Matches
 
 ### Andretti Global
@@ -14,7 +18,7 @@ Tap any role below to open the employer's application page.
 - [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/2a59881b-fba5-46b6-b3bf-88f62b24a971) — Silverstone
 ### Atlassian Williams F1 Team
 
-- [Senior Financial Regulations Reporting Analyst](https://careers.williamsf1.com/job/senior-financial-regulations-reporting-analyst-in-grove-wantage-jid-589) — Grove, Wantage, UK
+- [Direct Procurement - Industrial Placement](https://careers.williamsf1.com/job/direct-procurement-industrial-placement-in-grove-wantage-jid-695) — Grove, Wantage, UK
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
