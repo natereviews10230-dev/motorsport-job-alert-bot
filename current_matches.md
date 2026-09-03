@@ -4,10 +4,6 @@ Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [ERP Finance Project Business Partner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000147306505) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
