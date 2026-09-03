@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
@@ -34,7 +34,6 @@ Tap any role below to open the employer's application page.
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
 ### Haas F1 Team
 
-- [Indirect Buyer](https://haasf1team.bamboohr.com/careers/887) — Banbury, Oxfordshire
 - [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
 ### McLaren Racing
 
