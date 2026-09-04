@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Aston Martin F1 Team** — [Finance Data Analyst - Operations (12 Month FTC)](https://astonmartinf1.pinpointhq.com/en/postings/8a259c8d-572c-47ec-81e1-9812cc0cef60) — Silverstone
-
 ## All Current Matches
 
 ### Andretti Global
