@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Aston Martin F1 Team** — [Finance Data Analyst - Operations (12 Month FTC)](https://astonmartinf1.pinpointhq.com/en/postings/8a259c8d-572c-47ec-81e1-9812cc0cef60) — Silverstone
 
 ## All Current Matches
 
@@ -12,6 +16,7 @@ Tap any role below to open the employer's application page.
 ### Aston Martin F1 Team
 
 - [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/2a59881b-fba5-46b6-b3bf-88f62b24a971) — Silverstone
+- [Finance Data Analyst - Operations (12 Month FTC)](https://astonmartinf1.pinpointhq.com/en/postings/8a259c8d-572c-47ec-81e1-9812cc0cef60) — Silverstone
 ### Atlassian Williams F1 Team
 
 - [Direct Procurement - Industrial Placement](https://careers.williamsf1.com/job/direct-procurement-industrial-placement-in-grove-wantage-jid-695) — Grove, Wantage, UK
