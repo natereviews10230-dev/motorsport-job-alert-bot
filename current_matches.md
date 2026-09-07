@@ -4,14 +4,6 @@ Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **BWT Alpine Formula One Team** — [Finance Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Student-Placement_JOBREQ_50277237)
-- **BWT Alpine Formula One Team** — [Merch & Licensing Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Merch---Licensing-Student-Placement_JOBREQ_50277262)
-- **BWT Alpine Formula One Team** — [Partnerships Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Partnerships-Student-Placement_JOBREQ_50277204)
-- **BWT Alpine Formula One Team** — [Procurement Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Student-Placement_JOBREQ_50277529)
-- **BWT Alpine Formula One Team** — [Procurement Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Student-Placement_JOBREQ_50277530)
-
 ## All Current Matches
 
 ### Andretti Global
