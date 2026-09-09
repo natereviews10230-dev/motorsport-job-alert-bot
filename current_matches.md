@@ -4,6 +4,10 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **BWT Alpine Formula One Team** — [Commercial Strategy & Insights Executive](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Commercial-Strategy---Insights-Executive_JOBREQ_50278293)
+
 ## All Current Matches
 
 ### Andretti Global
@@ -21,6 +25,7 @@ Tap any role below to open the employer's application page.
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
+- [Commercial Strategy & Insights Executive](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Commercial-Strategy---Insights-Executive_JOBREQ_50278293)
 - [Finance Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Student-Placement_JOBREQ_50277237)
 - [Merch & Licensing Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Merch---Licensing-Student-Placement_JOBREQ_50277262)
 - [Partnerships Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Partnerships-Student-Placement_JOBREQ_50277204)
@@ -32,9 +37,6 @@ Tap any role below to open the employer's application page.
 ### Ford Racing
 
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
-### Haas F1 Team
-
-- [Purchasing Administrator (Protected Categories L. 68/99)](https://haasf1team.bamboohr.com/careers/863) — Maranello, Modena
 ### McLaren Racing
 
 - [ERP Finance Project Business Partner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000147306505) — Woking, England, United Kingdom
