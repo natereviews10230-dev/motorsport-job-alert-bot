@@ -4,10 +4,6 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [2027 Finance Summer Internship, Stellantis Job #2021430, Auburn Hills, MI](https://careers.stellantis.com/job/23788138/2027-finance-summer-internship/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
