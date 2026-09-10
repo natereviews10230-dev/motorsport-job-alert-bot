@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
@@ -37,7 +37,6 @@ Tap any role below to open the employer's application page.
 
 - [ERP Finance Project Business Partner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000147306505) — Woking, England, United Kingdom
 - [Operative, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148281810) — Woking, England, United Kingdom
-- [Senior Specialist, Finance Business Partner - Business Performance](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000146754749) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
