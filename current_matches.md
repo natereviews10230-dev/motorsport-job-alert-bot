@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
@@ -40,10 +40,6 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
-### Stellantis
-
-- [2027 Accounting Winter Internship, Stellantis Job #2021420, Auburn Hills, MI](https://careers.stellantis.com/job/23788134/2027-accounting-winter-internship/) — Auburn Hills, MI, US
-- [2027 Finance Summer Internship, Stellantis Job #2021430, Auburn Hills, MI](https://careers.stellantis.com/job/23788138/2027-finance-summer-internship/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
