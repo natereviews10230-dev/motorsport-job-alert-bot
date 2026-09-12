@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **15**
 
 Tap any role below to open the employer's application page.
 
@@ -19,14 +19,6 @@ Tap any role below to open the employer's application page.
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
-### BWT Alpine Formula One Team
-
-- [Commercial Strategy & Insights Executive](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Commercial-Strategy---Insights-Executive_JOBREQ_50278293)
-- [Finance Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Student-Placement_JOBREQ_50277237)
-- [Merch & Licensing Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Merch---Licensing-Student-Placement_JOBREQ_50277262)
-- [Partnerships Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Partnerships-Student-Placement_JOBREQ_50277204)
-- [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
-- [Procurement Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Student-Placement_JOBREQ_50277529)
 ### Cadillac Formula 1 Team
 
 - [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
