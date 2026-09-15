@@ -4,12 +4,6 @@ Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ford Racing** — [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
-- **Ford Racing** — [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67509) — Chennai, Tamil Nadu, India
-- **McLaren Racing** — [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
