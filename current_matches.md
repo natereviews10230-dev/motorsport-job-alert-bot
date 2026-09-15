@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
@@ -27,9 +27,6 @@ Tap any role below to open the employer's application page.
 - [Partnerships Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Partnerships-Student-Placement_JOBREQ_50277204)
 - [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
 - [Procurement Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Student-Placement_JOBREQ_50277529)
-### Cadillac Formula 1 Team
-
-- [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
 - [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
