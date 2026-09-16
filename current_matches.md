@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
@@ -34,7 +34,6 @@ Tap any role below to open the employer's application page.
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
-- [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67509) — Chennai, Tamil Nadu, India
 ### McLaren Racing
 
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
