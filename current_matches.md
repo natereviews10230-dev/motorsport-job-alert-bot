@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
@@ -11,7 +11,6 @@ Tap any role below to open the employer's application page.
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
 ### Aston Martin F1 Team
 
-- [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/2a59881b-fba5-46b6-b3bf-88f62b24a971) — Silverstone
 - [Finance Data Analyst - Operations (12 Month FTC)](https://astonmartinf1.pinpointhq.com/en/postings/8a259c8d-572c-47ec-81e1-9812cc0cef60) — Silverstone
 ### Atlassian Williams F1 Team
 
