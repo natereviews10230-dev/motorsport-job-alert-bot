@@ -1,8 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ferrari** — [Senior Accountant, Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
+- **Ferrari** — [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 
 ## All Current Matches
 
@@ -28,8 +33,9 @@ Tap any role below to open the employer's application page.
 - [Procurement Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Student-Placement_JOBREQ_50277529)
 ### Ferrari
 
-- [Accounting Specialist (Senior level), Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist-%28Senior-level%29%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
 - [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
+- [Senior Accountant, Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
+- [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
