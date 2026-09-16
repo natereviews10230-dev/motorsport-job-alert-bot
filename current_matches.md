@@ -4,11 +4,6 @@ Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ferrari** — [Senior Accountant, Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant%2C-Englewood%2C-NJ-%28USA%29-New/1365474855/)
-- **Ferrari** — [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
-
 ## All Current Matches
 
 ### Andretti Global
