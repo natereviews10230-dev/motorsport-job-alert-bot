@@ -4,6 +4,10 @@ Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **BWT Alpine Formula One Team** — [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
+
 ## All Current Matches
 
 ### Andretti Global
@@ -12,9 +16,6 @@ Tap any role below to open the employer's application page.
 ### Aston Martin F1 Team
 
 - [Finance Data Analyst - Operations (12 Month FTC)](https://astonmartinf1.pinpointhq.com/en/postings/8a259c8d-572c-47ec-81e1-9812cc0cef60) — Silverstone
-### Atlassian Williams F1 Team
-
-- [Direct Procurement - Industrial Placement](https://careers.williamsf1.com/job/direct-procurement-industrial-placement-in-grove-wantage-jid-695) — Grove, Wantage, UK
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
@@ -22,6 +23,7 @@ Tap any role below to open the employer's application page.
 
 - [Commercial Strategy & Insights Executive](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Commercial-Strategy---Insights-Executive_JOBREQ_50278293)
 - [Finance Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Student-Placement_JOBREQ_50277237)
+- [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Merch & Licensing Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Merch---Licensing-Student-Placement_JOBREQ_50277262)
 - [Partnerships Student Placement](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Partnerships-Student-Placement_JOBREQ_50277204)
 - [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
