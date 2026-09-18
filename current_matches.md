@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **25**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Dealer Network Strategy and Performance Student Program, Stellantis Job #2021748, Auburn Hills, MI](https://careers.stellantis.com/job/23891848/dealer-network-strategy-and-performance-student-program/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -36,6 +40,7 @@ Tap any role below to open the employer's application page.
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
+- [Internal Controls Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69212) — Dearborn, MI, United States
 ### McLaren Racing
 
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
@@ -44,6 +49,9 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
+### Stellantis
+
+- [Dealer Network Strategy and Performance Student Program, Stellantis Job #2021748, Auburn Hills, MI](https://careers.stellantis.com/job/23891848/dealer-network-strategy-and-performance-student-program/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
