@@ -1,21 +1,14 @@
 # Motorsport Job Dashboard
 
-Current matches: **25**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Stellantis** — [Dealer Network Strategy and Performance Student Program, Stellantis Job #2021748, Auburn Hills, MI](https://careers.stellantis.com/job/23891848/dealer-network-strategy-and-performance-student-program/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
 ### Andretti Global
 
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
-### Aston Martin F1 Team
-
-- [Finance Data Analyst - Operations (12 Month FTC)](https://astonmartinf1.pinpointhq.com/en/postings/8a259c8d-572c-47ec-81e1-9812cc0cef60) — Silverstone
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
@@ -49,9 +42,6 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
-### Stellantis
-
-- [Dealer Network Strategy and Performance Student Program, Stellantis Job #2021748, Auburn Hills, MI](https://careers.stellantis.com/job/23891848/dealer-network-strategy-and-performance-student-program/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
