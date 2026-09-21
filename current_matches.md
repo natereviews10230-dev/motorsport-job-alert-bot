@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **18**
 
 Tap any role below to open the employer's application page.
 
@@ -17,9 +17,6 @@ Tap any role below to open the employer's application page.
 - [Commercial Strategy & Insights Executive](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Commercial-Strategy---Insights-Executive_JOBREQ_50278293)
 - [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
-### Cadillac Formula 1 Team
-
-- [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
 - [Accounting Specialist, (Senior Level) Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist%2C-%28Senior-Level%29-Englewood%2C-NJ-%28USA%29-New/1365474855/)
@@ -38,9 +35,6 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
-### Stellantis
-
-- [Dealer Network Strategy and Performance Student Program, Stellantis Job #2021748, Auburn Hills, MI](https://careers.stellantis.com/job/23891848/dealer-network-strategy-and-performance-student-program/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
