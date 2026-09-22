@@ -4,10 +4,6 @@ Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Senior Manager, Financial Control (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000150954349) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
@@ -18,7 +14,6 @@ Tap any role below to open the employer's application page.
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
-- [Commercial Strategy & Insights Executive](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Commercial-Strategy---Insights-Executive_JOBREQ_50278293)
 - [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
 ### Ferrari
@@ -40,6 +35,9 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
+### Stellantis
+
+- [Dealer Network Strategy and Performance Student Program, Stellantis Job #2021748, Auburn Hills, MI](https://careers.stellantis.com/job/23891848/dealer-network-strategy-and-performance-student-program/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
