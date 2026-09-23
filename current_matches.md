@@ -4,10 +4,6 @@ Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **BWT Alpine Formula One Team** — [Finance Business Partner](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Business-Partner_JOBREQ_50280476)
-
 ## All Current Matches
 
 ### Andretti Global
