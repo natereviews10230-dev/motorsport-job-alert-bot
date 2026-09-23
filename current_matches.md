@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **18**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **BWT Alpine Formula One Team** — [Finance Business Partner](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Business-Partner_JOBREQ_50280476)
 
 ## All Current Matches
 
@@ -14,6 +18,7 @@ Tap any role below to open the employer's application page.
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
+- [Finance Business Partner](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Business-Partner_JOBREQ_50280476)
 - [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
 ### Ferrari
