@@ -1,12 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **BWT Alpine Formula One Team** — [Chief Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
+- **Ford Racing** — [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71307) — Chennai, Tamil Nadu, India
 
 ## All Current Matches
 
@@ -30,6 +30,7 @@ Tap any role below to open the employer's application page.
 ### Ford Racing
 
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
+- [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71307) — Chennai, Tamil Nadu, India
 - [Internal Controls Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69212) — Dearborn, MI, United States
 ### McLaren Racing
 
