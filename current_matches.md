@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ford Racing** — [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71307) — Chennai, Tamil Nadu, India
-
 ## All Current Matches
 
 ### Andretti Global
