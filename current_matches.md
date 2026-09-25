@@ -4,11 +4,18 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **Atlassian Williams F1 Team** — [Buyer/Planner â Heritage and TPC](https://careers.williamsf1.com/job/buyer-planner-heritage-and-tpc-in-witney-jid-722) — Witney, UK
+
 ## All Current Matches
 
 ### Andretti Global
 
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
+### Atlassian Williams F1 Team
+
+- [Buyer/Planner â Heritage and TPC](https://careers.williamsf1.com/job/buyer-planner-heritage-and-tpc-in-witney-jid-722) — Witney, UK
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
@@ -32,7 +39,6 @@ Tap any role below to open the employer's application page.
 
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
-- [Operative, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148281810) — Woking, England, United Kingdom
 - [Senior Manager, Financial Control (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000150954349) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
