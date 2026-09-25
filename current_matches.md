@@ -1,12 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Atlassian Williams F1 Team** — [Buyer/Planner â Heritage and TPC](https://careers.williamsf1.com/job/buyer-planner-heritage-and-tpc-in-witney-jid-722) — Witney, UK
+- **Mercedes-AMG PETRONAS Formula One Team** — [Commercial Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/847)
 
 ## All Current Matches
 
@@ -43,6 +43,9 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
+### Mercedes-AMG PETRONAS Formula One Team
+
+- [Commercial Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/847)
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
