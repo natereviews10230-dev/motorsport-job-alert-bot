@@ -4,10 +4,6 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Mercedes-AMG PETRONAS Formula One Team** — [Commercial Finance Business Partner](https://www.mercedesamgf1.com/careers/vacancies/847)
-
 ## All Current Matches
 
 ### Andretti Global
