@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
@@ -20,7 +20,6 @@ Tap any role below to open the employer's application page.
 - [Chief Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
 - [Finance Business Partner](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Business-Partner_JOBREQ_50280476)
 - [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
-- [Procurement Coordinator](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Procurement-Coordinator_JOBREQ_50278781)
 ### Ferrari
 
 - [Accounting Specialist, (Senior Level) Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist%2C-%28Senior-Level%29-Englewood%2C-NJ-%28USA%29-New/1365474855/)
