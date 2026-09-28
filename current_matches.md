@@ -1,8 +1,14 @@
 # Motorsport Job Dashboard
 
-Current matches: **18**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ford Racing** — [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71549) — Allen Park, MI, United States
+- **Ford Racing** — [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71528) — Allen Park, MI, United States
+- **McLaren Racing** — [Senior Manager, Financial Control (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000152179376) — Woking, England, United Kingdom
 
 ## All Current Matches
 
@@ -27,12 +33,14 @@ Tap any role below to open the employer's application page.
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
 
+- [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71549) — Allen Park, MI, United States
+- [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71528) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
 ### McLaren Racing
 
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
-- [Senior Manager, Financial Control (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000150954349) — Woking, England, United Kingdom
+- [Senior Manager, Financial Control (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000152179376) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
