@@ -4,10 +4,6 @@ Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Senior Data & Integrations Engineer – People & Finance](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000152237029) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
