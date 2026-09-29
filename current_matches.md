@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
@@ -30,7 +30,6 @@ Tap any role below to open the employer's application page.
 
 - [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71549) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71528) — Allen Park, MI, United States
-- [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
 ### McLaren Racing
 
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
