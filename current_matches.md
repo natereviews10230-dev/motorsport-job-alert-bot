@@ -4,11 +4,6 @@ Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Aston Martin F1 Team** — [Financial Operations Project Manager - 12 Month FTC](https://astonmartinf1.pinpointhq.com/en/postings/6f9578f4-7883-47b1-ae4f-b2cca97cac4b) — Silverstone
-- **Atlassian Williams F1 Team** — [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-wantage-jid-729) — Grove, Wantage, UK
-
 ## All Current Matches
 
 ### Andretti Global
