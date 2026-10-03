@@ -4,10 +4,6 @@ Current matches: **24**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ford Racing** — [Ownership Experience Strategy Manager - Ford Racing](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71984) — Allen Park, MI, United States
-
 ## All Current Matches
 
 ### Andretti Global
