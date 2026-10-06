@@ -1,8 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Cadillac Formula 1 Team** — [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
+- **McLaren Racing** — [Corporate Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000153752475) — Indianapolis, Indiana, United States
 
 ## All Current Matches
 
@@ -26,6 +31,7 @@ Tap any role below to open the employer's application page.
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
+- [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
 - [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
@@ -39,10 +45,10 @@ Tap any role below to open the employer's application page.
 - [Ownership Experience Strategy Manager - Ford Racing](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71984) — Allen Park, MI, United States
 ### McLaren Racing
 
+- [Corporate Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000153752475) — Indianapolis, Indiana, United States
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
-- [Specialist, Indirect Procurement](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000144341326) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
 ### Visa Cash App Racing Bulls F1 Team
 
