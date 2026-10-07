@@ -4,11 +4,6 @@ Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ford Racing** — [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
-- **Ford Racing** — [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
