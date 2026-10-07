@@ -1,12 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **McLaren Racing** — [Corporate Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000153815270) — Indianapolis, Indiana, United States
 
 ## All Current Matches
 
@@ -26,7 +22,6 @@ Tap any role below to open the employer's application page.
 ### BWT Alpine Formula One Team
 
 - [Chief Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
-- [Finance Business Partner](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Finance-Business-Partner_JOBREQ_50280476)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
