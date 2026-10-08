@@ -4,10 +4,6 @@ Current matches: **25**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Cadillac Formula 1 Team** — [Finance Analyst (US)](https://opportunities.cadillacf1team.com/en/jobs/98370c5ac4-finance-analyst-us) — Indianapolis, Marion County, United States
-
 ## All Current Matches
 
 ### Andretti Global
