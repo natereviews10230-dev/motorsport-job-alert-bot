@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **25**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Cadillac Formula 1 Team** — [Finance Analyst (US)](https://opportunities.cadillacf1team.com/en/jobs/98370c5ac4-finance-analyst-us) — Indianapolis, Marion County, United States
 
 ## All Current Matches
 
@@ -21,9 +25,11 @@ Tap any role below to open the employer's application page.
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
+- [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
+- [Finance Analyst (US)](https://opportunities.cadillacf1team.com/en/jobs/98370c5ac4-finance-analyst-us) — Indianapolis, Marion County, United States
 - [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
 - [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
