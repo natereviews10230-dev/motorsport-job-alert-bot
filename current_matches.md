@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **24**
 
 Tap any role below to open the employer's application page.
 
@@ -33,6 +33,7 @@ Tap any role below to open the employer's application page.
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
 
+- [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71549) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
@@ -45,6 +46,9 @@ Tap any role below to open the employer's application page.
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
+### Stellantis
+
+- [Technical Accounting Manager, Stellantis Job #2022022, Auburn Hills, MI](https://careers.stellantis.com/job/23981794/technical-accounting-manager/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
