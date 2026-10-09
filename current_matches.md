@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **24**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
@@ -14,7 +14,6 @@ Tap any role below to open the employer's application page.
 - [Financial Operations Project Manager - 12 Month FTC](https://astonmartinf1.pinpointhq.com/en/postings/6f9578f4-7883-47b1-ae4f-b2cca97cac4b) — Silverstone
 ### Atlassian Williams F1 Team
 
-- [Buyer/Planner â Heritage and TPC](https://careers.williamsf1.com/job/buyer-planner-heritage-and-tpc-in-witney-jid-722) — Witney, UK
 - [Procurement Business Partner](https://careers.williamsf1.com/job/procurement-business-partner-in-grove-wantage-jid-729) — Grove, Wantage, UK
 ### Audi Revolut F1 Team
 
@@ -46,9 +45,6 @@ Tap any role below to open the employer's application page.
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
-### Stellantis
-
-- [Technical Accounting Manager, Stellantis Job #2022022, Auburn Hills, MI](https://careers.stellantis.com/job/23981794/technical-accounting-manager/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
