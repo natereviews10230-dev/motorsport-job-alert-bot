@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **18**
+Current matches: **24**
 
 Tap any role below to open the employer's application page.
 
@@ -31,6 +31,14 @@ Tap any role below to open the employer's application page.
 - [Accounting Specialist, (Senior Level) Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist%2C-%28Senior-Level%29-Englewood%2C-NJ-%28USA%29-New/1365474855/)
 - [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
+### Ford Racing
+
+- [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
+- [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71549) — Allen Park, MI, United States
+- [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
+- [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
+- [Ownership Experience Strategy Manager - Ford Racing](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71984) — Allen Park, MI, United States
+- [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### McLaren Racing
 
 - [Corporate Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000153815270) — Indianapolis, Indiana, United States
