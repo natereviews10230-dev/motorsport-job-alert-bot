@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **24**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [ICT Product Analyst, Purchasing Systems, Stellantis Job #2022044, Auburn Hills, MI](https://careers.stellantis.com/job/23998569/ict-product-analyst-purchasing-systems/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -45,6 +49,7 @@ Tap any role below to open the employer's application page.
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
 ### Stellantis
 
+- [ICT Product Analyst, Purchasing Systems, Stellantis Job #2022044, Auburn Hills, MI](https://careers.stellantis.com/job/23998569/ict-product-analyst-purchasing-systems/) — Auburn Hills, MI, US
 - [Technical Accounting Manager, Stellantis Job #2022022, Auburn Hills, MI](https://careers.stellantis.com/job/23981794/technical-accounting-manager/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
