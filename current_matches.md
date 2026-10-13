@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **24**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
@@ -38,7 +38,6 @@ Tap any role below to open the employer's application page.
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### McLaren Racing
 
-- [Corporate Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000153815270) — Indianapolis, Indiana, United States
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
