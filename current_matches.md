@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Lead, Finance Business Partner - Heritage](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000155431450) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
