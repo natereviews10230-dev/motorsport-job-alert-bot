@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Consolidation and Reporting Analyst - Manufacturing, Stellantis Job #2022019, Auburn Hills, MI](https://careers.stellantis.com/job/24016628/consolidation-and-reporting-analyst-manufacturing/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -38,6 +42,9 @@ Tap any role below to open the employer's application page.
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
+### Stellantis
+
+- [Consolidation and Reporting Analyst - Manufacturing, Stellantis Job #2022019, Auburn Hills, MI](https://careers.stellantis.com/job/24016628/consolidation-and-reporting-analyst-manufacturing/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
