@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
@@ -12,7 +12,6 @@ Tap any role below to open the employer's application page.
 ### Aston Martin F1 Team
 
 - [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
-- [Financial Operations Project Manager - 12 Month FTC](https://astonmartinf1.pinpointhq.com/en/postings/6f9578f4-7883-47b1-ae4f-b2cca97cac4b) — Silverstone
 ### BWT Alpine Formula One Team
 
 - [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
