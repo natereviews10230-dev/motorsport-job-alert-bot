@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Consolidation and Reporting Analyst - Manufacturing, Stellantis Job #2022019, Auburn Hills, MI](https://careers.stellantis.com/job/24016628/consolidation-and-reporting-analyst-manufacturing/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
