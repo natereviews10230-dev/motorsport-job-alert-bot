@@ -4,11 +4,6 @@ Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Aston Martin F1 Team** — [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
-- **Mercedes-AMG PETRONAS Formula One Team** — [Technical Buyer (12-Month Fixed Term Contract)](https://www.mercedesamgf1.com/careers/vacancies/862)
-
 ## All Current Matches
 
 ### Andretti Global
