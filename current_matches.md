@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
@@ -20,6 +20,7 @@ Tap any role below to open the employer's application page.
 
 - [Finance Analyst (US)](https://opportunities.cadillacf1team.com/en/jobs/98370c5ac4-finance-analyst-us) — Indianapolis, Marion County, United States
 - [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
+- [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
 - [Accounting Specialist, (Senior Level) Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist%2C-%28Senior-Level%29-Englewood%2C-NJ-%28USA%29-New/1365474855/)
