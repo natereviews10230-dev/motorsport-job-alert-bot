@@ -1,8 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Aston Martin F1 Team** — [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
+- **Mercedes-AMG PETRONAS Formula One Team** — [Technical Buyer (12-Month Fixed Term Contract)](https://www.mercedesamgf1.com/careers/vacancies/862)
 
 ## All Current Matches
 
@@ -11,6 +16,7 @@ Tap any role below to open the employer's application page.
 - [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
 ### Aston Martin F1 Team
 
+- [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
 - [Financial Operations Project Manager - 12 Month FTC](https://astonmartinf1.pinpointhq.com/en/postings/6f9578f4-7883-47b1-ae4f-b2cca97cac4b) — Silverstone
 ### BWT Alpine Formula One Team
 
@@ -30,7 +36,6 @@ Tap any role below to open the employer's application page.
 
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67028) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
-- [Ownership Experience Strategy Manager - Ford Racing](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71984) — Allen Park, MI, United States
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### McLaren Racing
 
@@ -39,6 +44,12 @@ Tap any role below to open the employer's application page.
 - [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000148552423) — Woking, England, United Kingdom
+### Mercedes-AMG PETRONAS Formula One Team
+
+- [Technical Buyer (12-Month Fixed Term Contract)](https://www.mercedesamgf1.com/careers/vacancies/862)
+### Stellantis
+
+- [Consolidation and Reporting Analyst - Manufacturing, Stellantis Job #2022019, Auburn Hills, MI](https://careers.stellantis.com/job/24016628/consolidation-and-reporting-analyst-manufacturing/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
