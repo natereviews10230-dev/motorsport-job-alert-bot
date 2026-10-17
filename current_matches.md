@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
@@ -41,9 +41,6 @@ Tap any role below to open the employer's application page.
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Technical Buyer (12-Month Fixed Term Contract)](https://www.mercedesamgf1.com/careers/vacancies/862)
-### Stellantis
-
-- [Consolidation and Reporting Analyst - Manufacturing, Stellantis Job #2022019, Auburn Hills, MI](https://careers.stellantis.com/job/24016628/consolidation-and-reporting-analyst-manufacturing/) — Auburn Hills, MI, US
 ### Visa Cash App Racing Bulls F1 Team
 
 - [VCARB F1 Team - Buyer (Composite)](https://jobs.smartrecruiters.com/RedBull/744000138121748) — Faenza, Emilia-Romagna, Italy
