@@ -14,6 +14,7 @@ Tap any role below to open the employer's application page.
 - [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
 ### BWT Alpine Formula One Team
 
+- [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 - [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
@@ -34,7 +35,6 @@ Tap any role below to open the employer's application page.
 
 - [ERP Finance Project Business Partner - 12 Month FTC](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149059579) — Woking, England, United Kingdom
 - [Lead, Finance Business Partner - Heritage](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000155431450) — Woking, England, United Kingdom
-- [Manager, Training and Change - Finance Transformation (18 month FTC)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000149660389) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
 ### Mercedes-AMG PETRONAS Formula One Team
