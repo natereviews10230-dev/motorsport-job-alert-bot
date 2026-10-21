@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **McLaren Racing** — [Experiential and Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156655074) — Indianapolis, Indiana, United States
-
 ## All Current Matches
 
 ### Andretti Global
