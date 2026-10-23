@@ -1,18 +1,11 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Indirect Purchasing Savings Analyst, Stellantis Job #2022284, Auburn Hills, MI](https://careers.stellantis.com/job/24045820/indirect-purchasing-savings-analyst/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
-### Andretti Global
-
-- [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
 ### Aston Martin F1 Team
 
 - [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
