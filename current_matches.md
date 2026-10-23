@@ -1,12 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Aston Martin F1 Team** — [Audit Assistant - Financial Regulations](https://astonmartinf1.pinpointhq.com/en/postings/f2400adc-ffb3-4635-b7b0-006cd124d509) — Silverstone
 
 ## All Current Matches
 
@@ -45,3 +41,6 @@ Tap any role below to open the employer's application page.
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Technical Buyer (12-Month Fixed Term Contract)](https://www.mercedesamgf1.com/careers/vacancies/862)
+### Stellantis
+
+- [Indirect Purchasing Savings Analyst, Stellantis Job #2022284, Auburn Hills, MI](https://careers.stellantis.com/job/24045820/indirect-purchasing-savings-analyst/) — Auburn Hills, MI, US
