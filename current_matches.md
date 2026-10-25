@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **18**
 
 Tap any role below to open the employer's application page.
 
@@ -38,6 +38,3 @@ Tap any role below to open the employer's application page.
 - [Lead, Finance Business Partner - Heritage](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000155431450) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
-### Stellantis
-
-- [Indirect Purchasing Savings Analyst, Stellantis Job #2022284, Auburn Hills, MI](https://careers.stellantis.com/job/24045820/indirect-purchasing-savings-analyst/) — Auburn Hills, MI, US
