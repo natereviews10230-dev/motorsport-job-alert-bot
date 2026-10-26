@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **18**
 
 Tap any role below to open the employer's application page.
 
@@ -16,7 +16,6 @@ Tap any role below to open the employer's application page.
 ### BWT Alpine Formula One Team
 
 - [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
-- [Indirect Buyer](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Indirect-Buyer_JOBREQ_50279854)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
