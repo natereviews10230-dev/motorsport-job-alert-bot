@@ -4,10 +4,6 @@ Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Technical Analyst - Purchasing Finance, Stellantis Job #2022301, Auburn Hills, MI](https://careers.stellantis.com/job/24055540/technical-analyst-purchasing-finance/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
