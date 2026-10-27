@@ -6,7 +6,7 @@ Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **McLaren Racing** — [Senior Finance Business Partner - Commercial](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157981355) — Woking, England, United Kingdom
+- **Stellantis** — [Inventory Financial Analyst, Stellantis Job #2022426, Auburn Hills, MI](https://careers.stellantis.com/job/24077722/inventory-financial-analyst/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -45,4 +45,4 @@ Tap any role below to open the employer's application page.
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
 ### Stellantis
 
-- [Technical Analyst - Purchasing Finance, Stellantis Job #2022301, Auburn Hills, MI](https://careers.stellantis.com/job/24055540/technical-analyst-purchasing-finance/) — Auburn Hills, MI, US
+- [Inventory Financial Analyst, Stellantis Job #2022426, Auburn Hills, MI](https://careers.stellantis.com/job/24077722/inventory-financial-analyst/) — Auburn Hills, MI, US
