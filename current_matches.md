@@ -6,7 +6,7 @@ Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **McLaren Racing** — [Senior Accounting Specialist (Fixed-Term Contract)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157875890) — Woking, England, United Kingdom
+- **McLaren Racing** — [Senior Finance Business Partner - Commercial](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157981355) — Woking, England, United Kingdom
 
 ## All Current Matches
 
@@ -40,9 +40,9 @@ Tap any role below to open the employer's application page.
 - [Experiential and Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156655074) — Indianapolis, Indiana, United States
 - [Lead, Finance Business Partner - Heritage](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000155431450) — Woking, England, United Kingdom
 - [Senior Accounting Specialist (Fixed-Term Contract)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157875890) — Woking, England, United Kingdom
+- [Senior Finance Business Partner - Commercial](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157981355) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
 ### Stellantis
 
-- [Indirect Purchasing Savings Analyst, Stellantis Job #2022284, Auburn Hills, MI](https://careers.stellantis.com/job/24045820/indirect-purchasing-savings-analyst/) — Auburn Hills, MI, US
 - [Technical Analyst - Purchasing Finance, Stellantis Job #2022301, Auburn Hills, MI](https://careers.stellantis.com/job/24055540/technical-analyst-purchasing-finance/) — Auburn Hills, MI, US
