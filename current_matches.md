@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Inventory Financial Analyst, Stellantis Job #2022426, Auburn Hills, MI](https://careers.stellantis.com/job/24077722/inventory-financial-analyst/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Andretti Global
