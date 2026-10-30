@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Aston Martin F1 Team** — [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
 
 ## All Current Matches
 
@@ -13,15 +17,11 @@ Tap any role below to open the employer's application page.
 
 - [Audit Assistant - Financial Regulations](https://astonmartinf1.pinpointhq.com/en/postings/f2400adc-ffb3-4635-b7b0-006cd124d509) — Silverstone
 - [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
+- [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
 ### BWT Alpine Formula One Team
 
 - [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
-### Cadillac Formula 1 Team
-
-- [Finance Analyst (US)](https://opportunities.cadillacf1team.com/en/jobs/98370c5ac4-finance-analyst-us) — Indianapolis, Marion County, United States
-- [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
-- [Systems and Process Accountant](https://opportunities.cadillacf1team.com/en/jobs/5fc758ffe6-systems-and-process-accountant) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
 - [Accounting Specialist, (Senior Level) Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist%2C-%28Senior-Level%29-Englewood%2C-NJ-%28USA%29-New/1365474855/)
