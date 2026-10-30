@@ -4,10 +4,6 @@ Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ford Racing** — [Ford Racing Parts Planning Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73192) — Dearborn, MI, United States
-
 ## All Current Matches
 
 ### Andretti Global
