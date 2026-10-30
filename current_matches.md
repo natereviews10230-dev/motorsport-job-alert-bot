@@ -4,10 +4,6 @@ Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Aston Martin F1 Team** — [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
-
 ## All Current Matches
 
 ### Andretti Global
