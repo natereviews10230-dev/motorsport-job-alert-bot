@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
@@ -12,7 +12,6 @@ Tap any role below to open the employer's application page.
 ### Aston Martin F1 Team
 
 - [Audit Assistant - Financial Regulations](https://astonmartinf1.pinpointhq.com/en/postings/f2400adc-ffb3-4635-b7b0-006cd124d509) — Silverstone
-- [Business Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6d291d0-fdf9-4581-9af6-12063a7570e1) — Silverstone
 - [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
 ### BWT Alpine Formula One Team
 
