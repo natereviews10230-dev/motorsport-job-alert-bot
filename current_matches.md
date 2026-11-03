@@ -1,8 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Aston Martin F1 Team** — [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
+- **McLaren Racing** — [Junior Financial Regulations & Reporting Associate](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159356719) — Woking, England, United Kingdom
 
 ## All Current Matches
 
@@ -12,6 +17,7 @@ Tap any role below to open the employer's application page.
 ### Aston Martin F1 Team
 
 - [Audit Assistant - Financial Regulations](https://astonmartinf1.pinpointhq.com/en/postings/f2400adc-ffb3-4635-b7b0-006cd124d509) — Silverstone
+- [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
 - [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
 ### BWT Alpine Formula One Team
 
@@ -34,6 +40,7 @@ Tap any role below to open the employer's application page.
 ### McLaren Racing
 
 - [Experiential and Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156655074) — Indianapolis, Indiana, United States
+- [Junior Financial Regulations & Reporting Associate](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159356719) — Woking, England, United Kingdom
 - [Lead, Finance Business Partner - Heritage](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000155431450) — Woking, England, United Kingdom
 - [Senior Accounting Specialist (Fixed-Term Contract)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157875890) — Woking, England, United Kingdom
 - [Senior Finance Business Partner - Commercial](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157981355) — Woking, England, United Kingdom
