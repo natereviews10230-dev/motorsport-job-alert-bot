@@ -4,11 +4,6 @@ Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Aston Martin F1 Team** — [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
-- **McLaren Racing** — [Junior Financial Regulations & Reporting Associate](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159356719) — Woking, England, United Kingdom
-
 ## All Current Matches
 
 ### Andretti Global
