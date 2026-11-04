@@ -6,7 +6,7 @@ Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **McLaren Racing** — [Accounts Payable Assistant (Purchase Ledger)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159608199) — Woking, England, United Kingdom
+- **Ferrari** — [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
 
 ## All Current Matches
 
@@ -27,7 +27,7 @@ Tap any role below to open the employer's application page.
 - [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
 ### Ferrari
 
-- [Accounting Specialist, (Senior Level) Englewood, NJ (USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Specialist%2C-%28Senior-Level%29-Englewood%2C-NJ-%28USA%29-New/1365474855/)
+- [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
 - [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
