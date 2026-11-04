@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ford Racing** — [Ford Racing Powertrain Procurement & Supply Chain Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73283) — Allen Park, MI, United States
 
 ## All Current Matches
 
@@ -30,6 +34,7 @@ Tap any role below to open the employer's application page.
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Ford Racing Parts Planning Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73192) — Dearborn, MI, United States
+- [Ford Racing Powertrain Procurement & Supply Chain Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73283) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### McLaren Racing
