@@ -1,14 +1,11 @@
 # Motorsport Job Dashboard
 
-Current matches: **24**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
 ## All Current Matches
 
-### Andretti Global
-
-- [Accounting Clerk/Bookkeeper](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0cd8d571-b188-4747-961c-0d6e1ee17b28&lang=en_US&selectedMenuKey=CareerCenter&type=JS)
 ### Aston Martin F1 Team
 
 - [Audit Assistant - Financial Regulations](https://astonmartinf1.pinpointhq.com/en/postings/f2400adc-ffb3-4635-b7b0-006cd124d509) — Silverstone
