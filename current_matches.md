@@ -4,10 +4,6 @@ Current matches: **24**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ferrari** — [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
-
 ## All Current Matches
 
 ### Andretti Global
