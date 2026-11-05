@@ -1,12 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **25**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Aston Martin F1 Team** — [BOM Controller](https://astonmartinf1.pinpointhq.com/en/postings/c99a9a61-90a1-4e30-ae1e-e15ecb6021f2) — Silverstone
+- **Ford Racing** — [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
+- **Stellantis** — [Lead Financial Analyst - Engineering Research & Development, Stellantis Job #2022283, Auburn Hills, MI](https://careers.stellantis.com/job/24114856/lead-financial-analyst-engineering-research-development/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -33,6 +34,7 @@ Tap any role below to open the employer's application page.
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Ford Racing Parts Planning Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73192) — Dearborn, MI, United States
 - [Ford Racing Powertrain Procurement & Supply Chain Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73283) — Allen Park, MI, United States
+- [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### McLaren Racing
@@ -45,3 +47,6 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Financial Regulations](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000158547639) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
+### Stellantis
+
+- [Lead Financial Analyst - Engineering Research & Development, Stellantis Job #2022283, Auburn Hills, MI](https://careers.stellantis.com/job/24114856/lead-financial-analyst-engineering-research-development/) — Auburn Hills, MI, US
