@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
@@ -36,7 +36,6 @@ Tap any role below to open the employer's application page.
 - [Accounts Payable Assistant (Purchase Ledger)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159608199) — Woking, England, United Kingdom
 - [Experiential and Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156655074) — Indianapolis, Indiana, United States
 - [Junior Financial Regulations & Reporting Associate](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159356719) — Woking, England, United Kingdom
-- [Lead, Finance Business Partner - Heritage](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000155431450) — Woking, England, United Kingdom
 - [Senior Finance Business Partner - Commercial](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157981355) — Woking, England, United Kingdom
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Financial Regulations](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000158547639) — Woking, England, United Kingdom
