@@ -4,10 +4,6 @@ Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ferrari** — [Purchasing Legal Counsel (Maranello)](https://jobs.ferrari.com/job/Maranello-Purchasing-Legal-Counsel-%28Maranello%29/1376014955/)
-
 ## All Current Matches
 
 ### Aston Martin F1 Team
