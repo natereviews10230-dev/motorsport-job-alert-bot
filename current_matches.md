@@ -1,13 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **25**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Ford Racing** — [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
-- **Stellantis** — [Lead Financial Analyst - Engineering Research & Development, Stellantis Job #2022283, Auburn Hills, MI](https://careers.stellantis.com/job/24114856/lead-financial-analyst-engineering-research-development/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -19,7 +14,6 @@ Tap any role below to open the employer's application page.
 - [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
 ### BWT Alpine Formula One Team
 
-- [Financial Regulations Specialist](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Financial-Regulations-Specialist_JOBREQ_50269149-1)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
@@ -47,6 +41,3 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Financial Regulations](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000158547639) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
-### Stellantis
-
-- [Lead Financial Analyst - Engineering Research & Development, Stellantis Job #2022283, Auburn Hills, MI](https://careers.stellantis.com/job/24114856/lead-financial-analyst-engineering-research-development/) — Auburn Hills, MI, US
