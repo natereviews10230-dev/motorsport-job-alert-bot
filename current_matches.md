@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ferrari** — [Purchasing Legal Counsel (Maranello)](https://jobs.ferrari.com/job/Maranello-Purchasing-Legal-Counsel-%28Maranello%29/1376014955/)
 
 ## All Current Matches
 
@@ -21,6 +25,7 @@ Tap any role below to open the employer's application page.
 ### Ferrari
 
 - [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
+- [Purchasing Legal Counsel (Maranello)](https://jobs.ferrari.com/job/Maranello-Purchasing-Legal-Counsel-%28Maranello%29/1376014955/)
 - [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
