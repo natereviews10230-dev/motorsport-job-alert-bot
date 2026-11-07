@@ -4,11 +4,14 @@ Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
+## New This Run
+
+- **Stellantis** — [ER&D Manager – Program Controlling, Stellantis Job #2022858, Auburn Hills, MI](https://careers.stellantis.com/job/24120199/er-d-manager-program-controlling/) — Auburn Hills, MI, US
+
 ## All Current Matches
 
 ### Aston Martin F1 Team
 
-- [Audit Assistant - Financial Regulations](https://astonmartinf1.pinpointhq.com/en/postings/f2400adc-ffb3-4635-b7b0-006cd124d509) — Silverstone
 - [BOM Controller](https://astonmartinf1.pinpointhq.com/en/postings/c99a9a61-90a1-4e30-ae1e-e15ecb6021f2) — Silverstone
 - [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
 - [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
@@ -41,3 +44,6 @@ Tap any role below to open the employer's application page.
 - [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
 - [Specialist, Financial Regulations](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000158547639) — Woking, England, United Kingdom
 - [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
+### Stellantis
+
+- [ER&D Manager – Program Controlling, Stellantis Job #2022858, Auburn Hills, MI](https://careers.stellantis.com/job/24120199/er-d-manager-program-controlling/) — Auburn Hills, MI, US
