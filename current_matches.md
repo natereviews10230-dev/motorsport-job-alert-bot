@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **16**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Cadillac Formula 1 Team** — [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
 
 ## All Current Matches
 
@@ -16,7 +20,7 @@ Tap any role below to open the employer's application page.
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
-- [Head of Tax (12 Month FTC)](https://opportunities.cadillacf1team.com/en/jobs/689810bc09-head-of-tax-12-month-ftc) — Silverstone, West Northamptonshire, United Kingdom
+- [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
 ### Ferrari
 
 - [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
@@ -26,17 +30,13 @@ Tap any role below to open the employer's application page.
 ### Ford Racing
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
-- [Ford Racing Parts Planning Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73192) — Dearborn, MI, United States
 - [Ford Racing Powertrain Procurement & Supply Chain Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73283) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
-### McLaren Racing
+### GM Performance Power Units
 
-- [Accounts Payable Assistant (Purchase Ledger)](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159608199) — Woking, England, United Kingdom
-- [Experiential and Partnerships Intern](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156655074) — Indianapolis, Indiana, United States
-- [Junior Financial Regulations & Reporting Associate](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000159356719) — Woking, England, United Kingdom
-- [Senior Finance Business Partner - Commercial](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000157981355) — Woking, England, United Kingdom
-- [Senior Specialist, Workday Finance Product Owner](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000145448279) — Woking, England, United Kingdom
-- [Specialist, Financial Regulations](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000158547639) — Woking, England, United Kingdom
-- [Technical Buyer - Composites](https://jobs.smartrecruiters.com/McLarenRacingLtd1/744000156376181) — Woking, England, United Kingdom
+- [Financial Regulations Analyst](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1175) — Concord, NC, US
+### Stellantis
+
+- [ER&D Manager – Program Controlling, Stellantis Job #2022858, Auburn Hills, MI](https://careers.stellantis.com/job/24120199/er-d-manager-program-controlling/) — Auburn Hills, MI, US
