@@ -4,10 +4,6 @@ Current matches: **16**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Cadillac Formula 1 Team** — [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
-
 ## All Current Matches
 
 ### Aston Martin F1 Team
