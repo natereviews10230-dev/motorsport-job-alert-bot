@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **16**
+Current matches: **15**
 
 Tap any role below to open the employer's application page.
 
@@ -33,6 +33,3 @@ Tap any role below to open the employer's application page.
 ### GM Performance Power Units
 
 - [Financial Regulations Analyst](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1175) — Concord, NC, US
-### Stellantis
-
-- [ER&D Manager – Program Controlling, Stellantis Job #2022858, Auburn Hills, MI](https://careers.stellantis.com/job/24120199/er-d-manager-program-controlling/) — Auburn Hills, MI, US
