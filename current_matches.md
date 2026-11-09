@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **15**
+Current matches: **16**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Audi Formula Racing GmbH** — [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
 
 ## All Current Matches
 
@@ -11,6 +15,9 @@ Tap any role below to open the employer's application page.
 - [BOM Controller](https://astonmartinf1.pinpointhq.com/en/postings/c99a9a61-90a1-4e30-ae1e-e15ecb6021f2) — Silverstone
 - [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
 - [Financial Accountant](https://astonmartinf1.pinpointhq.com/en/postings/a1b7b7a8-b722-4c6d-93e7-d47c4b8fb87c) — Silverstone
+### Audi Formula Racing GmbH
+
+- [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
 ### BWT Alpine Formula One Team
 
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
