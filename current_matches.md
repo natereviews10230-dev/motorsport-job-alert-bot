@@ -1,12 +1,14 @@
 # Motorsport Job Dashboard
 
-Current matches: **17**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Stellantis** — [IT Business Analyst & AI – Cost Systems, Stellantis Job #2022878, Auburn Hills, MI](https://careers.stellantis.com/job/24128773/it-business-analyst-ai-cost-systems/) — Auburn Hills, MI, US
+- **Audi Revolut F1 Team** — [Intern Commercial Strategy](https://audif1.jobs.personio.com/job/2881700?display=en) — Hinwil Switzerland
+- **Audi Revolut F1 Team** — [Intern Merchandising & Licensing](https://audif1.jobs.personio.com/job/2882342?display=en) — Hinwil Switzerland
+- **Audi Revolut F1 Team** — [Intern Procurement](https://audif1.jobs.personio.com/job/2882357?display=en) — Hinwil Switzerland
 
 ## All Current Matches
 
@@ -18,6 +20,11 @@ Tap any role below to open the employer's application page.
 ### Audi Formula Racing GmbH
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
+### Audi Revolut F1 Team
+
+- [Intern Commercial Strategy](https://audif1.jobs.personio.com/job/2881700?display=en) — Hinwil Switzerland
+- [Intern Merchandising & Licensing](https://audif1.jobs.personio.com/job/2882342?display=en) — Hinwil Switzerland
+- [Intern Procurement](https://audif1.jobs.personio.com/job/2882357?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
