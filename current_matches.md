@@ -1,12 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **16**
+Current matches: **17**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Audi Formula Racing GmbH** — [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
+- **Stellantis** — [IT Business Analyst & AI – Cost Systems, Stellantis Job #2022878, Auburn Hills, MI](https://careers.stellantis.com/job/24128773/it-business-analyst-ai-cost-systems/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -40,3 +40,6 @@ Tap any role below to open the employer's application page.
 ### GM Performance Power Units
 
 - [Financial Regulations Analyst](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1175) — Concord, NC, US
+### Stellantis
+
+- [IT Business Analyst & AI – Cost Systems, Stellantis Job #2022878, Auburn Hills, MI](https://careers.stellantis.com/job/24128773/it-business-analyst-ai-cost-systems/) — Auburn Hills, MI, US
