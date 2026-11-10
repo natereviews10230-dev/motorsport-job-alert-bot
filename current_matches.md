@@ -1,12 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Mercedes-AMG PETRONAS Formula One Team** — [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
+- **Ford Racing** — [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74082) — Allen Park, MI, United States
 
 ## All Current Matches
 
@@ -40,6 +40,7 @@ Tap any role below to open the employer's application page.
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Ford Racing Powertrain Procurement & Supply Chain Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73283) — Allen Park, MI, United States
+- [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74082) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
