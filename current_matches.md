@@ -1,14 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Audi Revolut F1 Team** — [Intern Commercial Strategy](https://audif1.jobs.personio.com/job/2881700?display=en) — Hinwil Switzerland
-- **Audi Revolut F1 Team** — [Intern Merchandising & Licensing](https://audif1.jobs.personio.com/job/2882342?display=en) — Hinwil Switzerland
-- **Audi Revolut F1 Team** — [Intern Procurement](https://audif1.jobs.personio.com/job/2882357?display=en) — Hinwil Switzerland
+- **Mercedes-AMG PETRONAS Formula One Team** — [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
 
 ## All Current Matches
 
@@ -27,6 +25,7 @@ Tap any role below to open the employer's application page.
 - [Intern Procurement](https://audif1.jobs.personio.com/job/2882357?display=en) — Hinwil Switzerland
 ### BWT Alpine Formula One Team
 
+- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
 - [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
@@ -47,6 +46,6 @@ Tap any role below to open the employer's application page.
 ### GM Performance Power Units
 
 - [Financial Regulations Analyst](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1175) — Concord, NC, US
-### Stellantis
+### Mercedes-AMG PETRONAS Formula One Team
 
-- [IT Business Analyst & AI – Cost Systems, Stellantis Job #2022878, Auburn Hills, MI](https://careers.stellantis.com/job/24128773/it-business-analyst-ai-cost-systems/) — Auburn Hills, MI, US
+- [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
