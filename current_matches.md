@@ -1,15 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **24**
+Current matches: **25**
 
 Tap any role below to open the employer's application page.
 
 ## New This Run
 
-- **Aston Martin F1 Team** — [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6bca637-8850-4b11-aaff-4578e70105ed) — Silverstone
-- **Audi Formula Racing GmbH** — [Praktikum Beschaffung | Intern Procurement Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2363470)
-- **Audi Formula Racing GmbH** — [Praktikum Finanz/Controlling | Intern Finance/Controlling Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/1185328)
-- **Audi Formula Racing GmbH** — [Praktikum Power Unit Financial Regulations – Reporting und Compliance Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2659283)
+- **Ferrari** — [Accounting Internship (Maranello)](https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/)
 
 ## All Current Matches
 
@@ -39,6 +36,7 @@ Tap any role below to open the employer's application page.
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
 ### Ferrari
 
+- [Accounting Internship (Maranello)](https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/)
 - [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
 - [Purchasing Legal Counsel (Maranello)](https://jobs.ferrari.com/job/Maranello-Purchasing-Legal-Counsel-%28Maranello%29/1376014955/)
 - [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
