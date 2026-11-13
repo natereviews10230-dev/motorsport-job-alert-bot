@@ -4,10 +4,6 @@ Current matches: **25**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Ferrari** — [Accounting Internship (Maranello)](https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/)
-
 ## All Current Matches
 
 ### Aston Martin F1 Team
