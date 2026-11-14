@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **24**
 
 Tap any role below to open the employer's application page.
 
@@ -29,6 +29,13 @@ Tap any role below to open the employer's application page.
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
+### Ferrari
+
+- [Accounting Internship (Maranello)](https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/)
+- [Accounting Manager (Englewood Cliffs, USA)](https://jobs.ferrari.com/job/Englewood-Cliffs-Accounting-Manager-%28Englewood-Cliffs%2C-USA%29-NJ/1375750855/)
+- [Purchasing Legal Counsel (Maranello)](https://jobs.ferrari.com/job/Maranello-Purchasing-Legal-Counsel-%28Maranello%29/1376014955/)
+- [Senior Accountant (Englewood Cliffs, NJ) USA](https://jobs.ferrari.com/job/Englewood-Cliffs-Senior-Accountant-%28Englewood-Cliffs%2C-NJ%29-USA-New/1366096055/)
+- [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
 
 - [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74082) — Allen Park, MI, United States
