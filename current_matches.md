@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **24**
+Current matches: **25**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Atlassian Williams F1 Team** — [Finance Business Partner - Technical](https://careers.williamsf1.com/job/finance-business-partner-technical-in-grove-wantage-jid-764) — Grove, Wantage, UK
 
 ## All Current Matches
 
@@ -11,6 +15,9 @@ Tap any role below to open the employer's application page.
 - [BOM Controller](https://astonmartinf1.pinpointhq.com/en/postings/c99a9a61-90a1-4e30-ae1e-e15ecb6021f2) — Silverstone
 - [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6bca637-8850-4b11-aaff-4578e70105ed) — Silverstone
 - [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
+### Atlassian Williams F1 Team
+
+- [Finance Business Partner - Technical](https://careers.williamsf1.com/job/finance-business-partner-technical-in-grove-wantage-jid-764) — Grove, Wantage, UK
 ### Audi Formula Racing GmbH
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
