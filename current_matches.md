@@ -4,10 +4,6 @@ Current matches: **25**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Atlassian Williams F1 Team** — [Finance Business Partner - Technical](https://careers.williamsf1.com/job/finance-business-partner-technical-in-grove-wantage-jid-764) — Grove, Wantage, UK
-
 ## All Current Matches
 
 ### Aston Martin F1 Team
