@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **23**
+Current matches: **25**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **GM Performance Power Units** — [Procurement Buyer Graduate Placement](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1349) — Concord, NC, US
 
 ## All Current Matches
 
@@ -18,13 +22,16 @@ Tap any role below to open the employer's application page.
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
 - [Praktikum Beschaffung | Intern Procurement Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2363470)
-- [Praktikum Finanz/Controlling | Intern Finance/Controlling Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/1185328)
 - [Praktikum Power Unit Financial Regulations – Reporting und Compliance Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2659283)
 ### Audi Revolut F1 Team
 
 - [Intern Commercial Strategy](https://audif1.jobs.personio.com/job/2881700?display=en) — Hinwil Switzerland
 - [Intern Merchandising & Licensing](https://audif1.jobs.personio.com/job/2882342?display=en) — Hinwil Switzerland
 - [Intern Procurement](https://audif1.jobs.personio.com/job/2882357?display=en) — Hinwil Switzerland
+### BWT Alpine Formula One Team
+
+- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
+- [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
@@ -44,6 +51,7 @@ Tap any role below to open the employer's application page.
 ### GM Performance Power Units
 
 - [Financial Regulations Analyst](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1175) — Concord, NC, US
+- [Procurement Buyer Graduate Placement](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1349) — Concord, NC, US
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
