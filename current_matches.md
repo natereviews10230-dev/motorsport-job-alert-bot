@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **25**
+Current matches: **23**
 
 Tap any role below to open the employer's application page.
 
@@ -25,10 +25,6 @@ Tap any role below to open the employer's application page.
 - [Intern Commercial Strategy](https://audif1.jobs.personio.com/job/2881700?display=en) — Hinwil Switzerland
 - [Intern Merchandising & Licensing](https://audif1.jobs.personio.com/job/2882342?display=en) — Hinwil Switzerland
 - [Intern Procurement](https://audif1.jobs.personio.com/job/2882357?display=en) — Hinwil Switzerland
-### BWT Alpine Formula One Team
-
-- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
-- [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
