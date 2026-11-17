@@ -1,8 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Senior Buyer - Calipers, Stellantis Job #2023045, Auburn Hills, MI](https://careers.stellantis.com/job/24222529/senior-buyer-calipers/) — Auburn Hills, MI, US
+- **Stellantis** — [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -43,4 +48,5 @@ Tap any role below to open the employer's application page.
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
 ### Stellantis
 
-- [Senior Buyer Chassis - Cradles and Frames, Stellantis Job #2023031, Auburn Hills, MI](https://careers.stellantis.com/job/24218700/senior-buyer-chassis-cradles-and-frames/) — Auburn Hills, MI, US
+- [Senior Buyer - Calipers, Stellantis Job #2023045, Auburn Hills, MI](https://careers.stellantis.com/job/24222529/senior-buyer-calipers/) — Auburn Hills, MI, US
+- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
