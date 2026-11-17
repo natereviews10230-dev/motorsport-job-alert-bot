@@ -1,12 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Stellantis** — [Senior Buyer Chassis - Cradles and Frames, Stellantis Job #2023031, Auburn Hills, MI](https://careers.stellantis.com/job/24218700/senior-buyer-chassis-cradles-and-frames/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -21,7 +17,6 @@ Tap any role below to open the employer's application page.
 ### Audi Formula Racing GmbH
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
-- [Praktikum Beschaffung | Intern Procurement Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2363470)
 - [Praktikum Power Unit Financial Regulations – Reporting und Compliance Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2659283)
 ### Cadillac Formula 1 Team
 
