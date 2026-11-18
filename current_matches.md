@@ -1,13 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Stellantis** — [Senior Buyer - Calipers, Stellantis Job #2023045, Auburn Hills, MI](https://careers.stellantis.com/job/24222529/senior-buyer-calipers/) — Auburn Hills, MI, US
-- **Stellantis** — [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -15,7 +10,6 @@ Tap any role below to open the employer's application page.
 
 - [BOM Controller](https://astonmartinf1.pinpointhq.com/en/postings/c99a9a61-90a1-4e30-ae1e-e15ecb6021f2) — Silverstone
 - [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6bca637-8850-4b11-aaff-4578e70105ed) — Silverstone
-- [Finance Business Partner](https://astonmartinf1.pinpointhq.com/en/postings/7a66b812-b558-45c4-ad36-d4c6525ce91d) — Silverstone
 ### Atlassian Williams F1 Team
 
 - [Finance Business Partner - Technical](https://careers.williamsf1.com/job/finance-business-partner-technical-in-grove-wantage-jid-764) — Grove, Wantage, UK
@@ -23,6 +17,10 @@ Tap any role below to open the employer's application page.
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
 - [Praktikum Power Unit Financial Regulations – Reporting und Compliance Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2659283)
+### BWT Alpine Formula One Team
+
+- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
+- [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
@@ -46,7 +44,3 @@ Tap any role below to open the employer's application page.
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
-### Stellantis
-
-- [Senior Buyer - Calipers, Stellantis Job #2023045, Auburn Hills, MI](https://careers.stellantis.com/job/24222529/senior-buyer-calipers/) — Auburn Hills, MI, US
-- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
