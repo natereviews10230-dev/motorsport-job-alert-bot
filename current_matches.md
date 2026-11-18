@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
 
@@ -44,3 +44,7 @@ Tap any role below to open the employer's application page.
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
+### Stellantis
+
+- [Senior Buyer - Calipers, Stellantis Job #2023045, Auburn Hills, MI](https://careers.stellantis.com/job/24222529/senior-buyer-calipers/) — Auburn Hills, MI, US
+- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
