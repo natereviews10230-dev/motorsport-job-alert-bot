@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **22**
+Current matches: **18**
 
 Tap any role below to open the employer's application page.
 
@@ -17,10 +17,6 @@ Tap any role below to open the employer's application page.
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
 - [Praktikum Power Unit Financial Regulations – Reporting und Compliance Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2659283)
-### BWT Alpine Formula One Team
-
-- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
-- [Inventory Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Inventory-Accountant_JOBREQ_50275413)
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
@@ -33,7 +29,6 @@ Tap any role below to open the employer's application page.
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
 
-- [Ford Racing Program Management - Sourcing Workstream Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74082) — Allen Park, MI, United States
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
@@ -46,5 +41,4 @@ Tap any role below to open the employer's application page.
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
 ### Stellantis
 
-- [Senior Buyer - Calipers, Stellantis Job #2023045, Auburn Hills, MI](https://careers.stellantis.com/job/24222529/senior-buyer-calipers/) — Auburn Hills, MI, US
 - [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
