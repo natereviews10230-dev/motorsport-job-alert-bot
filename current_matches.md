@@ -4,11 +4,6 @@ Current matches: **19**
 
 Tap any role below to open the employer's application page.
 
-## New This Run
-
-- **Stellantis** — [Indirect Materials Purchasing Cost Analyst, Stellantis Job #2023037, Auburn Hills, MI](https://careers.stellantis.com/job/24227220/indirect-materials-purchasing-cost-analyst/) — Auburn Hills, MI, US
-- **Stellantis** — [Senior Buyer-Senior Buyer-Chassis Stamped Components, Stellantis Job #2023028, Auburn Hills, MI](https://careers.stellantis.com/job/24228885/senior-buyer-senior-buyer-chassis-stamped-components/) — Auburn Hills, MI, US
-
 ## All Current Matches
 
 ### Aston Martin F1 Team
