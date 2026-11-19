@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **22**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Haas F1 Team** — [Junior Finance Business Partner](https://haasf1team.bamboohr.com/careers/942) — Banbury, Oxfordshire
 
 ## All Current Matches
 
@@ -17,6 +21,9 @@ Tap any role below to open the employer's application page.
 
 - [Praktikum Accounting Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2369506)
 - [Praktikum Power Unit Financial Regulations – Reporting und Compliance Neuburg an der Donau Vollzeit Praktikum/Werkstudium](https://audi-formula-racing-students.jobs.personio.de/job/2659283)
+### Audi Revolut F1 Team
+
+- [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
@@ -30,12 +37,16 @@ Tap any role below to open the employer's application page.
 ### Ford Racing
 
 - [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
+- [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71307) — Chennai, Tamil Nadu, India
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### GM Performance Power Units
 
 - [Financial Regulations Analyst](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1175) — Concord, NC, US
 - [Procurement Buyer Graduate Placement](https://jobs.dayforcehcm.com/en-US/gmppu/CANDIDATEPORTAL/jobs/1349) — Concord, NC, US
+### Haas F1 Team
+
+- [Junior Finance Business Partner](https://haasf1team.bamboohr.com/careers/942) — Banbury, Oxfordshire
 ### Mercedes-AMG PETRONAS Formula One Team
 
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
