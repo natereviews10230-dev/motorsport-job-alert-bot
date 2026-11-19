@@ -1,8 +1,13 @@
 # Motorsport Job Dashboard
 
-Current matches: **18**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Stellantis** — [Indirect Materials Purchasing Cost Analyst, Stellantis Job #2023037, Auburn Hills, MI](https://careers.stellantis.com/job/24227220/indirect-materials-purchasing-cost-analyst/) — Auburn Hills, MI, US
+- **Stellantis** — [Senior Buyer-Senior Buyer-Chassis Stamped Components, Stellantis Job #2023028, Auburn Hills, MI](https://careers.stellantis.com/job/24228885/senior-buyer-senior-buyer-chassis-stamped-components/) — Auburn Hills, MI, US
 
 ## All Current Matches
 
@@ -41,4 +46,5 @@ Tap any role below to open the employer's application page.
 - [Partnerships & Commercial Insights Executive](https://www.mercedesamgf1.com/careers/vacancies/884)
 ### Stellantis
 
-- [Senior Buyer- North America HVAC, AC Lines, and Sensors, Stellantis Job #2023029, Auburn Hills, MI](https://careers.stellantis.com/job/24222528/senior-buyer-north-america-hvac-ac-lines-and-sensors/) — Auburn Hills, MI, US
+- [Indirect Materials Purchasing Cost Analyst, Stellantis Job #2023037, Auburn Hills, MI](https://careers.stellantis.com/job/24227220/indirect-materials-purchasing-cost-analyst/) — Auburn Hills, MI, US
+- [Senior Buyer-Senior Buyer-Chassis Stamped Components, Stellantis Job #2023028, Auburn Hills, MI](https://careers.stellantis.com/job/24228885/senior-buyer-senior-buyer-chassis-stamped-components/) — Auburn Hills, MI, US
