@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **21**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Atlassian Williams F1 Team** — [Cost Engineer](https://careers.williamsf1.com/job/cost-engineer-in-grove-wantage-jid-774) — Grove, Wantage, UK
 
 ## All Current Matches
 
@@ -11,6 +15,7 @@ Tap any role below to open the employer's application page.
 - [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6bca637-8850-4b11-aaff-4578e70105ed) — Silverstone
 ### Atlassian Williams F1 Team
 
+- [Cost Engineer](https://careers.williamsf1.com/job/cost-engineer-in-grove-wantage-jid-774) — Grove, Wantage, UK
 - [Finance Business Partner - Technical](https://careers.williamsf1.com/job/finance-business-partner-technical-in-grove-wantage-jid-764) — Grove, Wantage, UK
 ### Audi Formula Racing GmbH
 
@@ -19,9 +24,6 @@ Tap any role below to open the employer's application page.
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
-### BWT Alpine Formula One Team
-
-- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
@@ -35,7 +37,6 @@ Tap any role below to open the employer's application page.
 ### Ford Racing
 
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
-- [Ford Racing Program Management Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73573) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
 ### GM Performance Power Units
