@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **18**
+Current matches: **19**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Ford Racing** — [Ford Racing Partnerships Manager](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74077) — Allen Park, MI, United States
 
 ## All Current Matches
 
@@ -31,6 +35,7 @@ Tap any role below to open the employer's application page.
 - [Social Media & KOL Strategy Manager](https://jobs.ferrari.com/job/Englewood-Cliffs-Social-Media-&-KOL-Strategy-Manager-New/1368678355/)
 ### Ford Racing
 
+- [Ford Racing Partnerships Manager](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74077) — Allen Park, MI, United States
 - [Ford Racing Partnerships Specialist](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69911) — Allen Park, MI, United States
 - [Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72222) — Dunton, Essex, United Kingdom
 - [Senior Internal Control Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72221) — Dunton, Essex, United Kingdom
