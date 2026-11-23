@@ -1,12 +1,8 @@
 # Motorsport Job Dashboard
 
-Current matches: **19**
+Current matches: **20**
 
 Tap any role below to open the employer's application page.
-
-## New This Run
-
-- **Ford Racing** — [Ford Racing Partnerships Manager](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74077) — Allen Park, MI, United States
 
 ## All Current Matches
 
@@ -24,6 +20,9 @@ Tap any role below to open the employer's application page.
 ### Audi Revolut F1 Team
 
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
+### BWT Alpine Formula One Team
+
+- [Financial Accountant](https://alliancewd.wd3.myworkdayjobs.com/alpine-racing-careers/job/Enstone/Chief-Accountant_JOBREQ_50280715)
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
