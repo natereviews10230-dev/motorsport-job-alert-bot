@@ -1,8 +1,12 @@
 # Motorsport Job Dashboard
 
-Current matches: **20**
+Current matches: **21**
 
 Tap any role below to open the employer's application page.
+
+## New This Run
+
+- **Cadillac Formula 1 Team** — [Indirect Procurement Manager](https://apply.workable.com/j/A3C9471B48) — Silverstone
 
 ## All Current Matches
 
@@ -26,6 +30,7 @@ Tap any role below to open the employer's application page.
 ### Cadillac Formula 1 Team
 
 - [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
+- [Indirect Procurement Manager](https://apply.workable.com/j/A3C9471B48) — Silverstone
 ### Ferrari
 
 - [Accounting Internship (Maranello)](https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/)
