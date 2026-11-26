@@ -1,14 +1,11 @@
 # Motorsport Job Dashboard
 
-Current matches: **18**
+Current matches: **17**
 
 Tap any role below to open the employer's application page.
 
 ## All Current Matches
 
-### Aston Martin F1 Team
-
-- [Cost Analyst](https://astonmartinf1.pinpointhq.com/en/postings/f6bca637-8850-4b11-aaff-4578e70105ed) — Silverstone
 ### Atlassian Williams F1 Team
 
 - [Cost Engineer](https://careers.williamsf1.com/job/cost-engineer-in-grove-wantage-jid-774) — Grove, Wantage, UK
