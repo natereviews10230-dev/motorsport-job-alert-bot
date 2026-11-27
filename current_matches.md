@@ -1,6 +1,6 @@
 # Motorsport Job Dashboard
 
-Current matches: **17**
+Current matches: **16**
 
 Tap any role below to open the employer's application page.
 
@@ -20,7 +20,6 @@ Tap any role below to open the employer's application page.
 - [Controller Supply Chain](https://audif1.jobs.personio.com/job/2654568?display=en) — Hinwil Switzerland
 ### Cadillac Formula 1 Team
 
-- [Head of Tax (12 Month FTC)](https://apply.workable.com/j/689810BC09) — Silverstone
 - [Indirect Procurement Manager](https://apply.workable.com/j/A3C9471B48) — Silverstone
 ### Ferrari
 
